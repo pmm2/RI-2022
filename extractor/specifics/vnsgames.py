@@ -11,8 +11,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 # soup = BeautifulSoup(html, 'html.parser')
 with open("./farcry.html") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
-price = soup.find("span",id="variacaoPreco")
-print(price.text)
+price = soup.find("span",{'class':"preco-avista precoAvista"})
+
+print(re.sub('\s', '', price.text))
 title = soup.h1
 print(title.text)
 plataforma = title.text.split("-")[1].strip()

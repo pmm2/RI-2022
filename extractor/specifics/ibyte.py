@@ -6,7 +6,7 @@ import requests
 # req = requests.get(url)
 # soup = BeautifulSoup(req.content, 'html.parser')
 #downloaded so the site is fully loaded
-with open("./tlou.html") as fp:
+with open("./fifaIbyte.html") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
 price = soup.find("span",  {"class": "js-buy-box-best-price"})
 print(price.text)
