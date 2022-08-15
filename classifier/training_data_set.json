@@ -58,20 +58,5 @@
         ["https://www.fastshop.com.br/web/p/d/EXMI41S_PRD/micro-ondas-electrolux-com-31-litros-de-capacidade-prata-mi41s", false],
         ["https://www.fastshop.com.br/web/p/d/SGLU32J590UQ_PRD/monitor-uhd-samsung-32-4k-hdmi-display-port-freesync-preto-serie-uj590", false],
         ["https://www.fastshop.com.br/web/p/d/I4HISC1080BCO_PRD/camera-inteligente-wi-fi-compatvel-com-ios-versao-90-e-android-versao-50-e-controle-por-app-hi-geonav", false]
-    ],
-
-    "testingSitesAndTags": [
-        ["https://www.shockgames.com.br/produto/metro-exodus-complete-edition-xbox.html", true],
-        ["https://www.shockgames.com.br/produto/estatua-my-hero-academia-hawks-banpresto.html", false],
-        ["https://www.ibyte.com.br/sackboy--uma-grande-aventura-ps5/p", true],
-        ["https://www.ibyte.com.br/cadeira-gamer-gt-black-com-almofadas-e-lombar/p", false],
-        ["https://www.kabum.com.br/produto/162655/jogo-watch-dogs-legion-xbox-one-xbox-series-x", true],
-        ["https://www.kabum.com.br/produto/154974/samsung-smart-tv-43-uhd-4k-43au7700-processador-crystal-4k-tela-sem-limites-alexa-built-in-controle-unico-un43au7700gxzd", false],
-        ["https://www.bigboygames.com.br/jogo-paw-patrol-the-movie-adventure-city-calls-switch", true],
-        ["https://www.bigboygames.com.br/boneco-nba-lebron-james-los-angeles-lakers-16058", false],
-        ["https://www.ibyte.com.br/returnal-ps5/p", true],
-        ["https://www.ibyte.com.br/placa-de-video-geforce-gtx-1660-1-click-oc-6gb-gddr5-192bits-galax-60srh7dsy91c/p", false],
-        ["https://www.ibyte.com.br/ghost-of-tsushima-versao-do-diretor-ps5/p", true],
-        ["https://www.ibyte.com.br/smartphone-motorola-e32-64gb-4gb-ram-tela-6-5-camera-tripla-traseira-bateria-de-5000mah-rose/p", false]
     ]
 }
