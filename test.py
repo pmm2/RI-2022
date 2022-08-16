@@ -13,13 +13,13 @@ with open("./fc6.html") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
 print("far cry fast shop")
 generic(soup)
-with open("./fifaIbyte.html") as fp:
-    soup = BeautifulSoup(fp, 'html.parser')
-print("fifa ibyte")
-generic(soup)
-with open("./nba.html") as fp:
-    soup = BeautifulSoup(fp, 'html.parser')
-print("nba ibyte")
+# with open("./fifaIbyte.html") as fp:
+#     soup = BeautifulSoup(fp, 'html.parser')
+# print("fifa ibyte")
+# generic(soup)
+# with open("./nba.html") as fp:
+#     soup = BeautifulSoup(fp, 'html.parser')
+# print("nba ibyte")
 generic(soup)
 url = "https://www.shockgames.com.br/demons-souls-ps5"
 req = requests.get(url)
@@ -37,4 +37,10 @@ url = "https://www.futuristicgames.com.br/grand-theft-auto-v-standard-edition-ro
 req = requests.get(url)
 soup = BeautifulSoup(req.content, 'html.parser')
 print("gta futuristic")
+generic(soup)
+
+url = "https://www.bigboygames.com.br/naruto-to-boruto-shinobi-striker-ps4-7014-p997519"
+req = requests.get(url)
+soup = BeautifulSoup(req.content, 'html.parser')
+print("naruto big boy")
 generic(soup)
