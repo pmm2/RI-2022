@@ -1,17 +1,17 @@
-from __future__ import division
 from bs4 import BeautifulSoup
 import re
-import requests
-url = "https://www.shockgames.com.br/demons-souls-ps5"
-req = requests.get(url)
-soup = BeautifulSoup(req.content, 'html.parser')
-price = soup.find("strong",  {"class": "preco-promocional"})
-print(price.text.strip())
-title = soup.h1
-print(title.text)
-genero = soup.find("span",string="Gênero").parent.parent
-print(genero.text.strip())
-plataforma = title.text.split("-")
-print(plataforma[1].strip())
-desenvolvedora = soup.find("a", itemprop="url")
-print(desenvolvedora.text.strip())
+# import requests
+# url = "https://www.shockgames.com.br/demons-souls-ps5"
+# req = requests.get(url)
+# soup = BeautifulSoup(req.content, 'html.parser')
+def shockextractor(html):
+    price = html.find("s",  {"class": "preco-venda"}).text.strip()
+    if hasattr(price,"text"):
+        price = price.text.strip()
+    title = html.h1.text
+    genre = html.find("span",string="Gênero")
+    if hasattr(genre,"parent"):
+        genre = genre.parent.parent.text.strip().replace('Gênero','').replace('\n','')
+    plataforma = title.split("-")[1].strip()
+    dev = html.find("a", itemprop="url").text.strip()
+    return [float(price.replace(',','.').replace("R$",'')),title,genre,plataforma,dev]

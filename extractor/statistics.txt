@@ -1,0 +1,145 @@
+bigboy
+specific_
+[429.99, 'Fallen Legion Revenants: Vanguard Edition - Switch', 'Estratégia | Aventura | RPG', 'Switch', 'NIS America']
+generic
+[429.99, 'Fallen Legion Revenants: Vanguard Edition - Switch', 'Estratégia', '', 'com']
+[True, True, True, False, False]
+
+specific_
+[199.99, 'World Of Warriors - PS4', 'Ação | Guerra', 'PS4', 'SONY']
+generic
+[199.99, 'World Of Warriors - PS4', '', '', 'SONY']
+[True, True, False, False, True]
+
+specific_
+[None, 'Monster Hunter World (Seminovo) - PS4', 'Jogos Seminovos PS4', 'PS4', 'SONY']
+generic
+[64.99, 'Monster Hunter World (Seminovo) - PS4', '', '', 'SONY']
+[False, True, False, False, True]
+
+specific_
+[299.99, 'Back 4 Blood - Xbox One & Xbox Series X', 'Ação | Guerra', 'XBOX ONE', 'Warner Bros. Games']
+generic
+[299.99, 'Back 4 Blood - Xbox One & Xbox Series X', 'Tiro', '', 'Warner']
+[True, True, False, False, True]
+[4/4,4/4,0/4,0/4,3/4]
+---------------------------------------------------------------------------------------------
+ibyte
+specific_
+[179.0, 'Jogo Hades XBOX', 'Ação/Roguelike', 'XBSX, XB1', 'Supergiant Games']
+generic
+[179.0, 'Jogo Hades XBOX', 'Ação', 'XBSX,', 'Supergiant']
+[True, True, True, True, True]
+
+specific_
+[149.9, "Marvel's Spider-Man: Miles Morales - PS5", 'Ação / aventura', 'PS5', 'Sony']
+generic
+[209.0, "Marvel's Spider-Man: Miles Morales - PS5", '', 'Fabricante', 'de']
+[False, True, False, False, False]
+
+specific_
+[19.9, 'Game FIFA 18 - Xbox One-33873-33873-33873', 'Esporte', 'Xbox One', 'Eletronics Arts (EA)']
+generic
+[19.9, 'Game FIFA 18 - Xbox One-33873-33873-33873', 'Esporte', 'Xbox', 'Eletronics']
+[True, True, True, True, True]
+
+specific_
+[299.0, 'Sackboy: Uma Grande Aventura - PS5', 'Ação / aventura/ Plataforma', 'PS5', 'Sony']
+generic
+[299.0, 'Sackboy: Uma Grande Aventura - PS5', '', 'multijogador', 'PlataformaPS5']
+[True, True, False, False, False]
+[3/4, 4/4, 2/4, 2/4, 2/4]
+---------------------------------------------------------------------------------------------
+shockgames
+specific_
+[339.89, 'Horizon Forbidden West - PS5 - Mídia Física', 'Aventura / Mundo Aberto', 'PS5', 'Sony']
+generic
+[269.9, 'Horizon Forbidden West - PS5 - Mídia Física', 'Aventura', 'Shock', 'Sony']
+[False, True, True, False, True]
+
+specific_
+[279.89, 'FIFA 22 - PS5 - Mídia Física', 'Esporte', 'PS5', 'EA']
+generic
+[314.9, 'FIFA 22 - PS5 - Mídia Física', 'Esporte', 'Shock', 'EA']
+[False, True, True, False, True]
+
+specific_
+[339.89, "Demon's Souls - PS5 - Mídia Física", 'Ação, Aventura, RPG', 'PS5', 'Sony']
+generic
+[143.9, "Demon's Souls - PS5 - Mídia Física", 'Ação', 'Shock', 'Sony']
+[False, True, True, False, True]
+
+specific_
+[219.89, 'Metro Exodus: Complete Edition - Xbox - Mídia Física', 'Tiro', 'Xbox', 'Deep Silver']
+generic
+[89.9, 'Metro Exodus: Complete Edition - Xbox - Mídia Física', 'Tiro', 'incluindo', 'Deep']
+[False, True, True, False, True]
+[0/4, 4/4, 4/4, 0/4, 4/4]
+---------------------------------------------------------------------------------------------
+vnsgames
+specific_
+[219.0, 'Mega Man Anniversary Collection - PS2', 'Ação, CompilaçãoJogadores: Offline: 1 a 2Espaço Mínimo: 8 KBClassificação Indicativa: E / Livre', 'PS2', 'CapcomGênero: Ação, CompilaçãoJogadores: Offline: 1 a 2Espaço Mínimo: 8 KBClassificação Indicativa: E / Livre']
+generic
+[219.0, 'Mega Man Anniversary Collection - PS2', 'Ação', 'RPG', 'Capcom']
+[True, True, True, False, True]
+
+specific_
+[219.0, 'Mega Man X Collection - PS2', 'Ação, Compilação', 'PS2', 'Capcom']
+generic
+[219.0, 'Mega Man X Collection - PS2', 'Ação', 'RPG', 'Capcom']
+[True, True, True, False, True]
+
+specific_
+[259.0, 'Indivisible - Nintendo Switch', 'Ação, RPG', 'Nintendo Switch', 'Lab Zero Games']
+generic
+[259.0, 'Indivisible - Nintendo Switch', 'Ação', 'RPG', '505']
+[True, True, True, False, False]
+[3/3, 3/3, 3/3, 0/3, 2/3]
+---------------------------------------------------------------------------------------------
+futuristicgames
+specific_
+[322.0, 'Horizon Forbidden West Standard Edition Sony PS5  Físico', 'ação e aventura.', 'PS5', 'Guerrilla Games.']
+generic
+[322.0, 'Horizon Forbidden West Standard Edition Sony PS5  Físico', 'ação', 'PS5', 'Guerrilla']
+[True, True, True, True, True]
+
+specific_
+[78.0, 'Grand Theft Auto V Standard Edition Rockstar Games PS3  Físico', 'ação e aventura.', 'PS3', 'Rockstar Games.']
+generic
+[7806.0, 'Grand Theft Auto V Standard Edition Rockstar Games PS3  Físico', 'ação', 'PS3', 'Rockstar']
+[False, True, True, True, True]
+
+specific_
+[149.0, 'Far Cry 6 Standard Edition Ubisoft PS4  Físico', 'tiros.', 'PS4', 'Ubisoft.']
+generic
+[149.0, 'Far Cry 6 Standard Edition Ubisoft PS4  Físico', 'tiros', 'PS4', 'Ubisoft']
+[True, True, True, True, True]
+[2/3, 3/3, 3/3, 3/3, 3/3]
+---------------------------------------------------------------------------------------------
+lojaarenagames
+
+specific_
+[359.91, 'Super Mario Odyssey Nintendo Switch (Jogo Mídia Física)', 'Aventura', 'Jogos Switch', 'Nintendo']
+generic
+[359.91, 'Super Mario Odyssey Nintendo Switch (Jogo Mídia Física)', 'Aventura', 'Play', 'Nintendo']
+[True, True, True, False, True]
+
+specific_
+[314.91, 'New Super Mario Bros U Deluxe Nintendo Switch (Jogo Mídia Física) (Seminovo)', 'Aventura', 'Jogos Switch', 'Nintendo']
+generic
+[314.91, 'New Super Mario Bros U Deluxe Nintendo Switch (Jogo Mídia Física) (Seminovo)', 'Aventura', '-', 'Nintendo']
+[True, True, True, False, True]
+
+specific_
+[359.91, 'Fatal Frame Maiden Of Black Water Nintendo Switch (Jogo Mídia Física)', 'Terror', 'Jogos Switch', 'Koei Tecmo America Corp.']
+generic
+[359.91, 'Fatal Frame Maiden Of Black Water Nintendo Switch (Jogo Mídia Física)', 'Terror', '', 'Koei']
+[True, True, True, False, True]
+
+specific_
+[359.91, 'Animal Crossing New Horizons Nintendo Switch (Jogo Mídia Física)', 'Simulador', 'Jogos Switch', 'Nintendo']
+generic
+[359.91, 'Animal Crossing New Horizons Nintendo Switch (Jogo Mídia Física)', 'Simulador', '', 'Nintendo']
+[True, True, True, False, True]
+
+[4/4 ,4/4, 4/4 ,0/4,4/4]
