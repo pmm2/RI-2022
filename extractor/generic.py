@@ -16,8 +16,8 @@ def generic(html):
     tagspattern = re.compile('<.*?>',flags=re.IGNORECASE)
     htmlaftertitle = html.body.text.split(html.h1.text,1)[1]
     cleanedhtml = re.sub('\s', '', htmlaftertitle)
-    testehtml = re.sub(tagspattern,' ',str(html))
-    testehtml = re.sub("\s",' ',testehtml)
+    notagshtml = re.sub(tagspattern,' ',htmlaftertitle)
+    notagshtml = re.sub("\s",' ',notagshtml)
     title = html.h1.text.strip()
     # print("title:",title)
     # Search for price, if price doesnt contain comma its missing it so divides it by 100
@@ -35,27 +35,27 @@ def generic(html):
     pattern =re.compile(r'[g|G]ênero:?\s*\w*',flags=re.IGNORECASE)
     search = re.search(pattern,html.body.text)
     r =re.compile(r"\w*",flags=re.IGNORECASE)
-    cleanedhtml2 = list(filter(r.match,testehtml.split()))
-    searchgenre = re.findall(pattern,testehtml)
+    splitedhtml = list(filter(r.match,notagshtml.split()))
+    searchgenre = re.findall(pattern,notagshtml)
     pattern = re.compile(r'[g|G]ênero:?\s*',flags=re.IGNORECASE)
     if len(searchgenre)>0 and searchgenre != None :
         genre= re.sub(pattern,'',searchgenre[0].replace(' ',''))
 
     # Search for plataforma, its always string right after pattern
     pattern = re.compile(r'Plataforma:?',flags=re.IGNORECASE)
-    for t in range(len(cleanedhtml2)):
-        z = re.match(pattern,cleanedhtml2[t])
+    for t in range(len(splitedhtml)):
+        z = re.match(pattern,splitedhtml[t])
         if z:
-            plataforma =cleanedhtml2[t+1]
+            plataforma =splitedhtml[t+1]
             break
     # print("Plataforma:",plataforma)
 
     # Search for developer, its always string right after pattern
     pattern = re.compile(r'Desenvolvedor|Marca',flags=re.IGNORECASE)
-    for t in range(len(cleanedhtml2)):
-        z = re.match(pattern,cleanedhtml2[t])
+    for t in range(len(splitedhtml)):
+        z = re.match(pattern,splitedhtml[t])
         if z:
-            dev =cleanedhtml2[t+1]
+            dev =splitedhtml[t+1]
             break
     # print("Dev:",dev)
 

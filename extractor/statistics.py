@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from  specifics.bigboygames import bigboyextractor
 from  specifics.vnsgames import vnsextractor
-from  specifics.fastshop import fastextractor
+
 from  specifics.futuristicGames import futuristicextractor
 from  specifics.lojaarenagames import arenaextractor
 from  specifics.shockgames import shockextractor
@@ -17,6 +17,7 @@ import time
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 # url = "https://www.magazineluiza.com.br/fifa-21-para-xbox-one-ea/p/227122100/ga/otga/"
 #
+saida =[]
 def extrair(url,func):
     # req = requests.get(url)
     driver.get(url)
@@ -45,18 +46,17 @@ def extrair(url,func):
             continue
         else:
             matches.append(False)
-    with open('/home/pmilet/RI-2022/extractor/statistics.txt', 'w') as txt:
-        # txt.write("specific_")
-        # txt.write(str(specific_))
-        # txt.write("generic_")
-        # txt.write(str(generic_))
-        # txt.write(str(matches))
-        print("specific_")
-        print(specific_)
-        print("generic")
-        print(generic_)
-        print(matches)
-        print()
+    saida.append('specific_')
+    saida.append(specific_)
+    saida.append("generic")
+    saida.append(generic_)
+    saida.append(matches)
+    print("specific_")
+    print(specific_)
+    print("generic")
+    print(generic_)
+    print(matches)
+    print()
 
 with open('/home/pmilet/RI-2022/extractor/data.json') as data_file:
     data = json.load(data_file)
@@ -67,10 +67,10 @@ with open('/home/pmilet/RI-2022/extractor/data.json') as data_file:
                 # continue
             if "bigboy" in url:
                 extrair(url,bigboyextractor)
-                # continue
-            if "fastshop" in url:
-                # extrair(url,fastextractor)
                 continue
+            # if "fastshop" in url:
+            #     # extrair(url,fastextractor)
+            #     continue
             if "futuristic" in url:
                 # futuristicextractor
                 extrair(url,futuristicextractor)
@@ -85,4 +85,5 @@ with open('/home/pmilet/RI-2022/extractor/data.json') as data_file:
                 # vnsextractor
                 extrair(url,vnsextractor)
 
-
+with open('/home/pmilet/RI-2022/extractor/teste.txt', 'w') as txt:
+    txt.write(str(saida))

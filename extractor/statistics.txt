@@ -22,7 +22,12 @@ specific_
 generic
 [299.99, 'Back 4 Blood - Xbox One & Xbox Series X', 'Tiro', '', 'Warner']
 [True, True, False, False, True]
-[4/4,4/4,0/4,0/4,3/4]
+[3/4,4/4,0/4,0/4,3/4]
+price 75%
+title 100%
+genre 0%
+plataforma 0%
+developer 75%
 ---------------------------------------------------------------------------------------------
 ibyte
 specific_
@@ -49,6 +54,11 @@ generic
 [299.0, 'Sackboy: Uma Grande Aventura - PS5', '', 'multijogador', 'PlataformaPS5']
 [True, True, False, False, False]
 [3/4, 4/4, 2/4, 2/4, 2/4]
+price 75%
+title 100%
+genre 50%
+plataforma 50%
+developer 50%
 ---------------------------------------------------------------------------------------------
 shockgames
 specific_
@@ -75,6 +85,11 @@ generic
 [89.9, 'Metro Exodus: Complete Edition - Xbox - Mídia Física', 'Tiro', 'incluindo', 'Deep']
 [False, True, True, False, True]
 [0/4, 4/4, 4/4, 0/4, 4/4]
+price 0%
+title 100%
+genre 100%
+plataforma 0%
+developer 75%
 ---------------------------------------------------------------------------------------------
 vnsgames
 specific_
@@ -95,6 +110,11 @@ generic
 [259.0, 'Indivisible - Nintendo Switch', 'Ação', 'RPG', '505']
 [True, True, True, False, False]
 [3/3, 3/3, 3/3, 0/3, 2/3]
+price 100%
+title 100%
+genre 100%
+plataforma 0%
+developer 67%
 ---------------------------------------------------------------------------------------------
 futuristicgames
 specific_
@@ -115,6 +135,11 @@ generic
 [149.0, 'Far Cry 6 Standard Edition Ubisoft PS4  Físico', 'tiros', 'PS4', 'Ubisoft']
 [True, True, True, True, True]
 [2/3, 3/3, 3/3, 3/3, 3/3]
+price 67%
+title 100%
+genre 100%
+plataforma 100%
+developer 100%
 ---------------------------------------------------------------------------------------------
 lojaarenagames
 
@@ -143,3 +168,8 @@ generic
 [True, True, True, False, True]
 
 [4/4 ,4/4, 4/4 ,0/4,4/4]
+price 100%
+title 100%
+genre 100%
+plataforma 0%
+developer 100%
