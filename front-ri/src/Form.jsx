@@ -1,13 +1,26 @@
 import React from "react";
 import "./Form.css";
 import { useState } from "react";
-const Form = () => {
+import axios from 'axios'
+const Form = (props) => {
   const [title, settitle] = useState("");
   const [genre, setgenre] = useState("");
   const [plataforma, setplataforma] = useState("");
   const [dev, setdev] = useState("");
   const submitHandler =(e)=>{
     e.preventDefault()
+    axios({
+        method:'post',
+        url:'http://127.0.0.1:8000'
+    });
+    //POST
+    //chama funcao externa para esconder submithandler e
+    //Gerar entradas apartir da payload
+    props.setmodoResultado(true)
+    settitle('')
+    setgenre('')
+    setplataforma('')
+    setdev('')
   }
   return (
     <form className="Forms" action="" onSubmit={submitHandler}>
