@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 #root {
   height: 100vh;
   width: 100vw;
+  font-family: 'Press Start 2P', cursive;
 }
 .App{
   background-color: #665c54;
@@ -22,8 +24,12 @@ input{
   height: fit-content;
   width: 90%;
   padding: 3px;
-  margin-bottom: 4px;
+  margin-bottom: 10px;
+}
+label{
+  margin-top: 20px;
 }
 button{
+  font-family: 'Press Start 2P', cursive;
   background-color: #bdae93;
 }
