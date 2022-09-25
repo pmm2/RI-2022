@@ -22,14 +22,14 @@ const Form = (props) => {
   }
   return (
     <form className="Forms" action="" onSubmit={submitHandler}>
-      <label htmlFor="title">Titulo</label>
+      <label htmlFor="title">Título</label>
       <input
         id="title"
         type="text"
         value={title}
         onChange={(e) => settitle(e.target.value)}
       />
-      <label htmlFor="genre">Genero</label>
+      <label htmlFor="genre">Gênero</label>
       <input
         id="genre"
         type="text"
