@@ -1,12 +1,23 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
+from pydantic import BaseModel,Field
+from typing import Optional
+from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
+origins = ["*"]
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 class Consulta(BaseModel):
-    title: str
-    genre: str
-    plataforma: str
-    dev: str
+    simple: Optional[str] = None
+    title: Optional[str] = None
+    genre: Optional[str] = None
+    plataforma: Optional[str] = None
+    dev: Optional[str] = None
 
 @app.post('/')
 async def consulta(consulta:Consulta):

@@ -9,10 +9,8 @@ const Form = (props) => {
   const [dev, setdev] = useState("");
   const submitHandler =(e)=>{
     e.preventDefault()
-    axios({
-        method:'post',
-        url:'http://127.0.0.1:8000'
-    });
+    //localhost ta 7777 pois tenho processos rodando na 8000
+    axios.post('http://localhost:7777', {'title':title,'genre':genre,'plataforma':plataforma,'dev':dev})
     //POST
     //chama funcao externa para esconder submithandler e
     //Gerar entradas apartir da payload
