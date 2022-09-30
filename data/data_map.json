@@ -1,0 +1,3872 @@
+{
+    "1": {
+        "url": "https://www.bigboygames.com.br/arcania-the-complete-tale-ps4-1344",
+        "arquivo": "bigboygames_0179",
+        "price": "None",
+        "title": "Arcania The Complete Tale - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "SONY"
+    },
+    "2": {
+        "url": "https://www.bigboygames.com.br/murdered-soul-suspect-xbox-one-71",
+        "arquivo": "bigboygames_0182",
+        "price": "None",
+        "title": "Murdered: Soul Suspect - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Xbox One",
+        "dev": "MICROSOFT"
+    },
+    "3": {
+        "url": "https://www.bigboygames.com.br/mario-luigi-dream-team-3ds-93-p985424",
+        "arquivo": "bigboygames_0184",
+        "price": 249.99,
+        "title": "Mario & Luigi Dream Team - 3Ds",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "NINTENDO"
+    },
+    "4": {
+        "url": "https://www.bigboygames.com.br/petz-fashion-dogz-and-catz-nds-1317-p986553",
+        "arquivo": "bigboygames_0187",
+        "price": 99.99,
+        "title": "Petz Fashion Dogz And Catz - NDs",
+        "genre": "Infantil | Fam\u00edlia",
+        "plataforma": "None",
+        "dev": "Ubisoft"
+    },
+    "5": {
+        "url": "https://www.bigboygames.com.br/burnout-paradise-remastered-switch-11907-p1006454",
+        "arquivo": "bigboygames_0191",
+        "price": 399.99,
+        "title": "Burnout Paradise Remastered - Switch",
+        "genre": "Corrida",
+        "plataforma": "None",
+        "dev": "EA"
+    },
+    "6": {
+        "url": "https://www.bigboygames.com.br/outer-worlds-switch-11501-p1005507",
+        "arquivo": "bigboygames_0192",
+        "price": 449.99,
+        "title": "The Outer Worlds - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "Obsidian"
+    },
+    "7": {
+        "url": "https://www.bigboygames.com.br/world-of-warriors-ps4-4955-p993556",
+        "arquivo": "bigboygames_0193",
+        "price": 199.99,
+        "title": "World Of Warriors - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "SONY"
+    },
+    "8": {
+        "url": "https://www.bigboygames.com.br/naruto-to-boruto-shinobi-striker-ps4-7014-p997519",
+        "arquivo": "bigboygames_0194",
+        "price": 199.99,
+        "title": "Naruto to Boruto Shinobi Striker - PS4",
+        "genre": "Luta",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "9": {
+        "url": "https://www.bigboygames.com.br/jogo-citizens-unite-earth-x-space-ps4",
+        "arquivo": "bigboygames_0195",
+        "price": 349.99,
+        "title": "Citizens Unite!: Earth x Space - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Kemco"
+    },
+    "10": {
+        "url": "https://www.bigboygames.com.br/jogo-void-terrarium-plus-plus-deluxe-edition-ps5",
+        "arquivo": "bigboygames_0196",
+        "price": 349.99,
+        "title": "Void Terrarium ++ Deluxe Edition - PS5",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS5",
+        "dev": "NIS America"
+    },
+    "11": {
+        "url": "https://www.bigboygames.com.br/luigis-mansion-dark-moon-3ds-1400-p986926",
+        "arquivo": "bigboygames_0197",
+        "price": 279.99,
+        "title": "Luigi's Mansion Dark Moon - 3Ds",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "Nintendo"
+    },
+    "12": {
+        "url": "https://www.bigboygames.com.br/golem-vr-ps4-10737-eur-p1003827",
+        "arquivo": "bigboygames_0198",
+        "price": 279.99,
+        "title": "Golem (VR) - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "High Wire Games"
+    },
+    "13": {
+        "url": "https://www.bigboygames.com.br/jogo-fallen-legion-revenants-vanguard-edition-nintendo-switch",
+        "arquivo": "bigboygames_0199",
+        "price": 429.99,
+        "title": "Fallen Legion Revenants: Vanguard Edition - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "NIS America"
+    },
+    "14": {
+        "url": "https://www.bigboygames.com.br/jogo-nba-2k-21-zion-edition-xbox-series-x",
+        "arquivo": "bigboygames_0200",
+        "price": 249.99,
+        "title": "NBA 2K21 Zion Edition - Xbox Series X",
+        "genre": "Esportes",
+        "plataforma": "Xbox Serie X",
+        "dev": "2K"
+    },
+    "15": {
+        "url": "https://www.bigboygames.com.br/mortal-kombat-11-aftermath-switch-11702-p1005993",
+        "arquivo": "bigboygames_0201",
+        "price": 429.99,
+        "title": "Mortal Kombat 11 Aftermath - Switch",
+        "genre": "Luta",
+        "plataforma": "None",
+        "dev": "Warner Games"
+    },
+    "16": {
+        "url": "https://www.bigboygames.com.br/pokemon-shield-switch",
+        "arquivo": "bigboygames_0202",
+        "price": 449.99,
+        "title": "Pokemon: Shield - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "17": {
+        "url": "https://www.bigboygames.com.br/killer-queen-black-switch-10731-p1003816",
+        "arquivo": "bigboygames_0203",
+        "price": 249.99,
+        "title": "Killer Queen Black - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "18": {
+        "url": "https://www.bigboygames.com.br/pixel-junk-monsters-2-ps4-8765-p999929",
+        "arquivo": "bigboygames_0209",
+        "price": 329.99,
+        "title": "Pixel Junk Monsters 2 - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Limited Run Games"
+    },
+    "19": {
+        "url": "https://www.bigboygames.com.br/dying-light-2-xbox-one-7229-p998012",
+        "arquivo": "bigboygames_0210",
+        "price": "None",
+        "title": "Dying Light 2 - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "Techland"
+    },
+    "20": {
+        "url": "https://www.bigboygames.com.br/jogo-samurai-warriors-5-nintendo-switch",
+        "arquivo": "bigboygames_0211",
+        "price": 449.99,
+        "title": "Samurai Warriors 5 - Switch",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Switch",
+        "dev": "Koei Tecmo"
+    },
+    "21": {
+        "url": "https://www.bigboygames.com.br/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-portugues-ps4-us-2438-p988748",
+        "arquivo": "bigboygames_0212",
+        "price": 179.99,
+        "title": "Naruto Shippuden Ultimate Ninja Storm 4 Road To Boruto (Portugu\u00eas) - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "22": {
+        "url": "https://www.bigboygames.com.br/sonic-ultimate-genesis-collectiongreatest-hits-ps3-316-p985339",
+        "arquivo": "bigboygames_0213",
+        "price": 149.99,
+        "title": "Sonic Ultimate Genesis Collection\u00a0(Greatest Hits) - PS3",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "SEGA"
+    },
+    "23": {
+        "url": "https://www.bigboygames.com.br/lego-jurassic-world-switch-10339-p1002811",
+        "arquivo": "bigboygames_0214",
+        "price": 279.99,
+        "title": "LEGO Jurassic World - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Warner Bros. Games"
+    },
+    "24": {
+        "url": "https://www.bigboygames.com.br/jogo-rims-racing-sim-nintendo-switch",
+        "arquivo": "bigboygames_0232",
+        "price": "None",
+        "title": "Rims Racing - Switch",
+        "genre": "Corrida",
+        "plataforma": "Switch",
+        "dev": "Nacon"
+    },
+    "25": {
+        "url": "https://www.bigboygames.com.br/jogo-grand-theft-auto-the-trilogy-the-definitive-edition-switch",
+        "arquivo": "bigboygames_0250",
+        "price": "None",
+        "title": "Grand Theft Auto: The Trilogy The Definitive Edition - Switch",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Switch",
+        "dev": "Rockstar Games"
+    },
+    "26": {
+        "url": "https://www.bigboygames.com.br/olympic-games-tokyo-2020-the-official-video-game-nintendo-switch",
+        "arquivo": "bigboygames_0261",
+        "price": 499.99,
+        "title": "Olympic Games Tokyo 2020 The Official Video Game - Switch",
+        "genre": "Esportes",
+        "plataforma": "Switch",
+        "dev": "SEGA"
+    },
+    "27": {
+        "url": "https://www.bigboygames.com.br/jogo-destroy-all-humans-nintendo-switch",
+        "arquivo": "bigboygames_0262",
+        "price": 449.99,
+        "title": "Destroy All Humans! - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "THQ Nordic"
+    },
+    "28": {
+        "url": "https://www.bigboygames.com.br/joy-con-comfort-grip-power-a-pikachu-switch",
+        "arquivo": "bigboygames_0266",
+        "price": 319.99,
+        "title": "Joy-con Comfort Grip Power A Pikachu - Switch",
+        "genre": "Acess\u00f3rios",
+        "plataforma": "Switch",
+        "dev": "Power A"
+    },
+    "29": {
+        "url": "https://www.bigboygames.com.br/jogo-port-royale-4-nintendo-switch",
+        "arquivo": "bigboygames_0272",
+        "price": 399.99,
+        "title": "Port Royale 4 - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Kalypso"
+    },
+    "30": {
+        "url": "https://www.bigboygames.com.br/jogo-immortal-realms-vampire-wars-nintendo-switch",
+        "arquivo": "bigboygames_0273",
+        "price": 379.99,
+        "title": "Immortal Realms: Vampire Wars - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Kalypso"
+    },
+    "31": {
+        "url": "https://www.bigboygames.com.br/jogo-nexomon-extinction-nintendo-switch",
+        "arquivo": "bigboygames_0274",
+        "price": 379.99,
+        "title": "Nexomon Extinction - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "PQube"
+    },
+    "32": {
+        "url": "https://www.bigboygames.com.br/switch/estrategia-aventura-rpg/harvest-moon-one-world-switch",
+        "arquivo": "bigboygames_0277",
+        "price": 479.99,
+        "title": "Harvest Moon One World - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "NINTENDO"
+    },
+    "33": {
+        "url": "https://www.bigboygames.com.br/jogo-gi-joe-operation-blackout-switch-us-p1008294",
+        "arquivo": "bigboygames_0287",
+        "price": 279.99,
+        "title": "GI Joe Operation Blackout - Switch",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "SWITCH",
+        "dev": "Game Mill"
+    },
+    "34": {
+        "url": "https://www.bigboygames.com.br/spirit-hunter-switch-10342-p1002820",
+        "arquivo": "bigboygames_0288",
+        "price": 379.99,
+        "title": "Spirit Hunter: NG - Switch",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Switch",
+        "dev": "Aksys"
+    },
+    "35": {
+        "url": "https://www.bigboygames.com.br/borderlands-legendary-collection-switch-eur-12809-p1008423",
+        "arquivo": "bigboygames_0289",
+        "price": 399.99,
+        "title": "Borderlands Legendary Collection - Switch",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "None",
+        "dev": "2K Games / Gearbox"
+    },
+    "36": {
+        "url": "https://www.bigboygames.com.br/jogo-transformers-battlegrounds-switch-us-p1008329",
+        "arquivo": "bigboygames_0290",
+        "price": 379.99,
+        "title": "Transformers Battlegrounds - Switch",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Switch",
+        "dev": "Outright Games"
+    },
+    "37": {
+        "url": "https://www.bigboygames.com.br/jogo-mario-golf-super-rush-nintendo-switch",
+        "arquivo": "bigboygames_0293",
+        "price": 449.99,
+        "title": "Mario Golf: Super Rush - Switch",
+        "genre": "Esportes",
+        "plataforma": "Switch",
+        "dev": "Nintendo\u00a0"
+    },
+    "38": {
+        "url": "https://www.bigboygames.com.br/cricket-19-switch-9826-p1001421",
+        "arquivo": "bigboygames_0294",
+        "price": 249.99,
+        "title": "Cricket 19 - Switch",
+        "genre": "Esportes",
+        "plataforma": "Switch",
+        "dev": "Maximum Games"
+    },
+    "39": {
+        "url": "https://www.bigboygames.com.br/rbi-baseball-17-switch-7128-p997920",
+        "arquivo": "bigboygames_0295",
+        "price": "None",
+        "title": "Rbi Baseball 17 - Switch",
+        "genre": "Esportes",
+        "plataforma": "Switch",
+        "dev": "Nighthawk Interactive"
+    },
+    "40": {
+        "url": "https://www.bigboygames.com.br/aeternoblade-ii-switch",
+        "arquivo": "bigboygames_0297",
+        "price": 249.99,
+        "title": "AeternoBlade II - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "PQube"
+    },
+    "41": {
+        "url": "https://www.bigboygames.com.br/kemco-rpg-omnibus-switch-11230-p1004930",
+        "arquivo": "bigboygames_0298",
+        "price": 429.99,
+        "title": "Kemco RPG Omnibus - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Aksys"
+    },
+    "42": {
+        "url": "https://www.bigboygames.com.br/raging-loop-day-one-edition-switch-10735-p1003825",
+        "arquivo": "bigboygames_0299",
+        "price": 349.99,
+        "title": "Raging Loop Day One Edition - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "PQube"
+    },
+    "43": {
+        "url": "https://www.bigboygames.com.br/heroland-knowble-edition-switch-10680-p1003689",
+        "arquivo": "bigboygames_0300",
+        "price": 349.99,
+        "title": "Heroland Knowble Edition - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "XSeed"
+    },
+    "44": {
+        "url": "https://www.bigboygames.com.br/jogo-pokemon-sword-switch-us-p998270",
+        "arquivo": "bigboygames_0301",
+        "price": 449.99,
+        "title": "Pokemon: Sword - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "45": {
+        "url": "https://www.bigboygames.com.br/jogo-kingdom-hearts-melody-of-memory-nintendo-switch-p1007010",
+        "arquivo": "bigboygames_0302",
+        "price": 449.99,
+        "title": "Kingdom Hearts Melody of Memory - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "SWITCH",
+        "dev": "Square Enix"
+    },
+    "46": {
+        "url": "https://www.bigboygames.com.br/harvest-moon-mad-dash-switch-10471-p1003115",
+        "arquivo": "bigboygames_0303",
+        "price": 229.99,
+        "title": "Harvest Moon Mad Dash - Switch",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Switch",
+        "dev": "Natsume"
+    },
+    "47": {
+        "url": "https://www.bigboygames.com.br/lego-the-incredibles-switch-4965-p993546",
+        "arquivo": "bigboygames_0305",
+        "price": 279.99,
+        "title": "LEGO The Incredibles - Switch",
+        "genre": "Infantil | Familia",
+        "plataforma": "Switch",
+        "dev": "NINTENDO"
+    },
+    "48": {
+        "url": "https://www.bigboygames.com.br/gal-metal-world-tour-ed-switch-6877-p997867",
+        "arquivo": "bigboygames_0308",
+        "price": 229.99,
+        "title": "Gal Metal World Tour Edition - Switch",
+        "genre": "Musical",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "49": {
+        "url": "https://www.bigboygames.com.br/nioh-collection-ps5-br-15333",
+        "arquivo": "bigboygames_0316",
+        "price": 449.99,
+        "title": "Nioh Collection - PS5",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS5",
+        "dev": "SONY"
+    },
+    "50": {
+        "url": "https://www.bigboygames.com.br/just-dance-2021-ps5-12963-p1008746",
+        "arquivo": "bigboygames_0324",
+        "price": 399.99,
+        "title": "Just Dance 2021 - PS5",
+        "genre": "Musical",
+        "plataforma": "PS5",
+        "dev": "Ubisoft"
+    },
+    "51": {
+        "url": "https://www.bigboygames.com.br/uncharted-4-a-thiefs-end-ps4-2424-eur",
+        "arquivo": "bigboygames_0366",
+        "price": "None",
+        "title": "Uncharted 4: A Thief's End - Ps4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "SONY"
+    },
+    "52": {
+        "url": "https://www.bigboygames.com.br/batman-arkham-knight-totalmente-em-ingles-ps4-2452",
+        "arquivo": "bigboygames_0379",
+        "price": "None",
+        "title": "Batman Arkham Knight (Totalmente Em Ingl\u00eas) - Ps4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "SONY"
+    },
+    "53": {
+        "url": "https://www.bigboygames.com.br/jogo-samurai-warriors-5-ps4",
+        "arquivo": "bigboygames_0394",
+        "price": 479.99,
+        "title": "Samurai Warriors 5 - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Koei Tecmo"
+    },
+    "54": {
+        "url": "https://www.bigboygames.com.br/jogo-aliens-fireteam-elite-ps4",
+        "arquivo": "bigboygames_0395",
+        "price": 299.99,
+        "title": "Aliens: Fireteam Elite - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Cold Iron Studios"
+    },
+    "55": {
+        "url": "https://www.bigboygames.com.br/nioh-ps4-3029-br",
+        "arquivo": "bigboygames_0396",
+        "price": "None",
+        "title": "Nioh - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Koei Tecmo"
+    },
+    "56": {
+        "url": "https://www.bigboygames.com.br/jogo-outriders-ps4-p999835",
+        "arquivo": "bigboygames_0397",
+        "price": 349.99,
+        "title": "Outriders - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Square Enix / People Can Fly"
+    },
+    "57": {
+        "url": "https://www.bigboygames.com.br/rage-2-ps4-5805-p1005602",
+        "arquivo": "bigboygames_0398",
+        "price": "None",
+        "title": "Rage 2 - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Bethesda"
+    },
+    "58": {
+        "url": "https://www.bigboygames.com.br/jogo-gi-joe-operation-blackout-ps4-us-13169-p1009051",
+        "arquivo": "bigboygames_0399",
+        "price": 299.99,
+        "title": "GI Joe Operation Blackout - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Game Mill"
+    },
+    "59": {
+        "url": "https://www.bigboygames.com.br/gunhouse-ps4-7291-p998134",
+        "arquivo": "bigboygames_0400",
+        "price": "None",
+        "title": "Gunhouse - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Necrosoft Games"
+    },
+    "60": {
+        "url": "https://www.bigboygames.com.br/tokyo-ghoulre-call-to-exist-7217-br-p997998",
+        "arquivo": "bigboygames_0401",
+        "price": "None",
+        "title": "Tokyo Ghoulre Call to Exist - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "Capcom"
+    },
+    "61": {
+        "url": "https://www.bigboygames.com.br/jogo-yakuza-remastered-collection-ps4-eur-p1007447",
+        "arquivo": "bigboygames_0402",
+        "price": 499.99,
+        "title": "Yakuza Remastered Collection (Standard Edition) - PS4",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS4",
+        "dev": "SEGA"
+    },
+    "62": {
+        "url": "https://www.bigboygames.com.br/senran-kagura-burst-renewal-ps4-11614-eur-p1005734",
+        "arquivo": "bigboygames_0404",
+        "price": 349.99,
+        "title": "Senran Kagura Burst ReNewal - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Marvelous"
+    },
+    "63": {
+        "url": "https://www.bigboygames.com.br/jogo-cris-tales-ps4",
+        "arquivo": "bigboygames_0405",
+        "price": 229.99,
+        "title": "Cris Tales - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "Modus Games"
+    },
+    "64": {
+        "url": "https://www.bigboygames.com.br/jogo-r-type-final-2-inaugural-flight-edition-ps4",
+        "arquivo": "bigboygames_0406",
+        "price": 449.99,
+        "title": "R-Type Final 2 Inaugural Flight Edition - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "NIS America"
+    },
+    "65": {
+        "url": "https://www.bigboygames.com.br/age-of-wonders-planetfall-ps4-8385-eur-p999720",
+        "arquivo": "bigboygames_0407",
+        "price": 299.99,
+        "title": "Age of Wonders Planetfall - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Paradox Interactive"
+    },
+    "66": {
+        "url": "https://www.bigboygames.com.br/kingdom-new-lands-ps4-7293-p998141",
+        "arquivo": "bigboygames_0408",
+        "price": 379.99,
+        "title": "Kingdom New Lands - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Raw Fury"
+    },
+    "67": {
+        "url": "https://www.bigboygames.com.br/quivr-vr-ps4-9860-p1001496",
+        "arquivo": "bigboygames_0409",
+        "price": 179.99,
+        "title": "QuiVR (VR) - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Perp Games"
+    },
+    "68": {
+        "url": "https://www.bigboygames.com.br/kotodama-the-7-mysteris-of-fujisawa-ps4-9835-p1001443",
+        "arquivo": "bigboygames_0410",
+        "price": 249.99,
+        "title": "Kotodama The 7 Mysteries of Fujisawa - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "PQube"
+    },
+    "69": {
+        "url": "https://www.bigboygames.com.br/neonwall-ps4-8743-p999883",
+        "arquivo": "bigboygames_0411",
+        "price": "None",
+        "title": "Neonwall - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Limited Run Games"
+    },
+    "70": {
+        "url": "https://www.bigboygames.com.br/ugly-dolls-an-imperfect-adventure-ps4-7998-p999530",
+        "arquivo": "bigboygames_0412",
+        "price": "None",
+        "title": "Ugly Dolls An Imperfect Adventure - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Outright Games"
+    },
+    "71": {
+        "url": "https://www.bigboygames.com.br/little-dragons-cafe-ps4-5278-p994262",
+        "arquivo": "bigboygames_0413",
+        "price": "None",
+        "title": "Little Dragons Cafe - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "SONY"
+    },
+    "72": {
+        "url": "https://www.bigboygames.com.br/loading-human-chapter-1-ps4-vr-1836-us-p987412",
+        "arquivo": "bigboygames_0415",
+        "price": "None",
+        "title": "Loading Human Chapter 1 (VR) - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Maximum Games"
+    },
+    "73": {
+        "url": "https://www.bigboygames.com.br/jogo-doraemon-story-of-seasons-ps4-eur-p1007531",
+        "arquivo": "bigboygames_0416",
+        "price": 399.99,
+        "title": "Doraemon Story of Seasons - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "SONY"
+    },
+    "74": {
+        "url": "https://www.bigboygames.com.br/jogo-little-big-planet-3-playstation-hits-ps4-us-p1007092",
+        "arquivo": "bigboygames_0417",
+        "price": 179.99,
+        "title": "Little Big Planet 3 (Playstation Hits) - PS4",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS4",
+        "dev": "Sony"
+    },
+    "75": {
+        "url": "https://www.bigboygames.com.br/birthdays-the-beginning-ps4-3376-p990552",
+        "arquivo": "bigboygames_0419",
+        "price": 149.99,
+        "title": "Birthdays The Beginning - PS4",
+        "genre": "Infantil | Fam\u00edlia",
+        "plataforma": "PS4",
+        "dev": "NIS America"
+    },
+    "76": {
+        "url": "https://www.bigboygames.com.br/street-power-soccer-ps4-us-p1008742",
+        "arquivo": "bigboygames_0421",
+        "price": 279.99,
+        "title": "Street Power Soccer - PS4",
+        "genre": "Esportes",
+        "plataforma": "PS4",
+        "dev": "Maximum Games"
+    },
+    "77": {
+        "url": "https://www.bigboygames.com.br/cars-3-drive-to-win-ps4-3739-p991016",
+        "arquivo": "bigboygames_0423",
+        "price": 179.99,
+        "title": "Cars 3 Driven To Win - PS4",
+        "genre": "Corrida",
+        "plataforma": "PS4",
+        "dev": "Warner Bros"
+    },
+    "78": {
+        "url": "https://www.bigboygames.com.br/saints-row-the-third-ps3-7634",
+        "arquivo": "bigboygames_0476",
+        "price": "None",
+        "title": "Saints Row The Third - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "Deep Silver"
+    },
+    "79": {
+        "url": "https://www.bigboygames.com.br/jogo-thief-ps3-3802",
+        "arquivo": "bigboygames_0477",
+        "price": "None",
+        "title": "Thief - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "80": {
+        "url": "https://www.bigboygames.com.br/midway-arcade-origins-ps3-284",
+        "arquivo": "bigboygames_0479",
+        "price": "None",
+        "title": "Midway Arcade Origins - PS3",
+        "genre": "Luta",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "81": {
+        "url": "https://www.bigboygames.com.br/mass-effect-3-ps3-282",
+        "arquivo": "bigboygames_0480",
+        "price": "None",
+        "title": "Mass Effect 3\u00a0 - PS3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "82": {
+        "url": "https://www.bigboygames.com.br/armored-core-v-ps3-2094",
+        "arquivo": "bigboygames_0481",
+        "price": "None",
+        "title": "Armored Core V - PS3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "83": {
+        "url": "https://www.bigboygames.com.br/batman-arkham-asylum-game-of-the-year-greatest-hits-ps3-us-15944",
+        "arquivo": "bigboygames_0482",
+        "price": "None",
+        "title": "Batman: Arkham Asylum Game of the Year Edition Greatest Hits - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "84": {
+        "url": "https://www.bigboygames.com.br/jogo-call-of-juarez-ps3-as-15943",
+        "arquivo": "bigboygames_0483",
+        "price": "None",
+        "title": "Call of Juarez: The Cartel - PS3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "85": {
+        "url": "https://www.bigboygames.com.br/jogo-battleship-ps3-us-15942",
+        "arquivo": "bigboygames_0484",
+        "price": "None",
+        "title": "Battleship - PS3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "86": {
+        "url": "https://www.bigboygames.com.br/joog-dirt-shwodown-ps3-as-15941",
+        "arquivo": "bigboygames_0485",
+        "price": "None",
+        "title": "DiRT Showdown - PS3",
+        "genre": "Corrida",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "87": {
+        "url": "https://www.bigboygames.com.br/the-walking-dead-telltale-game-series-ps3-15939",
+        "arquivo": "bigboygames_0488",
+        "price": "None",
+        "title": "The Walking Dead A Telltale Games Series - PS3",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "88": {
+        "url": "https://www.bigboygames.com.br/uncharted-2-among-thieves-ps3-456",
+        "arquivo": "bigboygames_0489",
+        "price": "None",
+        "title": "Uncharted 2: Among Thieves Favoritos - Ps3",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "89": {
+        "url": "https://www.bigboygames.com.br/risen-2-dark-waters-ps3-307",
+        "arquivo": "bigboygames_0490",
+        "price": "None",
+        "title": "Risen 2: Dark Waters - Ps3",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "90": {
+        "url": "https://www.bigboygames.com.br/beyond-two-souls-ps3-222",
+        "arquivo": "bigboygames_0491",
+        "price": "None",
+        "title": "Beyond: Two Souls - Ps3",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "91": {
+        "url": "https://www.bigboygames.com.br/jogo-falling-skies-the-game-ps3-br-15690",
+        "arquivo": "bigboygames_0492",
+        "price": 179.99,
+        "title": "Falling Skies: The Game - PS3",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS3",
+        "dev": "Rockstar"
+    },
+    "92": {
+        "url": "https://www.bigboygames.com.br/borderlands-2-ps3-223-p985530",
+        "arquivo": "bigboygames_0493",
+        "price": "None",
+        "title": "Borderlands 2 - PS3",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "93": {
+        "url": "https://www.bigboygames.com.br/red-faction-guerrilla-ps3-3798",
+        "arquivo": "bigboygames_0495",
+        "price": "None",
+        "title": "Red Faction: Guerrilla - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "94": {
+        "url": "https://www.bigboygames.com.br/jogo-brink-ps3",
+        "arquivo": "bigboygames_0496",
+        "price": 199.99,
+        "title": "Brink - PS3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "95": {
+        "url": "https://www.bigboygames.com.br/dead-space-3-ps3-6011",
+        "arquivo": "bigboygames_0497",
+        "price": "None",
+        "title": "Dead Space 3 - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "None",
+        "dev": "EA"
+    },
+    "96": {
+        "url": "https://www.bigboygames.com.br/dishonored-ps3-436",
+        "arquivo": "bigboygames_0498",
+        "price": "None",
+        "title": "Dishonored - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "97": {
+        "url": "https://www.bigboygames.com.br/mass-effect-2-ps3-3566",
+        "arquivo": "bigboygames_0499",
+        "price": "None",
+        "title": "Mass Effect 2 - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "98": {
+        "url": "https://www.bigboygames.com.br/dead-island-game-of-the-year-edition-ps3-2119",
+        "arquivo": "bigboygames_0502",
+        "price": "None",
+        "title": "Dead Island: Game Of The Year Edition - Ps3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "99": {
+        "url": "https://www.bigboygames.com.br/jogo-metal-gear-solid-4-favoritos-ps3-2124",
+        "arquivo": "bigboygames_0504",
+        "price": "None",
+        "title": "Metal Gear Solid 4: Guns of the Patriots Favoritos - PS3",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "PS3",
+        "dev": "SONY"
+    },
+    "100": {
+        "url": "https://www.bigboygames.com.br/jogo-just-dance-2014-ps3",
+        "arquivo": "bigboygames_0508",
+        "price": 199.99,
+        "title": "Just Dance 2014 - PS3",
+        "genre": "Musical",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "101": {
+        "url": "https://www.bigboygames.com.br/dance-on-broadway-ps3-3589",
+        "arquivo": "bigboygames_0509",
+        "price": "None",
+        "title": "Dance On Broadway - Ps3",
+        "genre": "Musical",
+        "plataforma": "None",
+        "dev": "Ubisoft"
+    },
+    "102": {
+        "url": "https://www.bigboygames.com.br/jogo-back-4-blood-xbox-one",
+        "arquivo": "bigboygames_0526",
+        "price": 299.99,
+        "title": "Back 4 Blood - Xbox One & Xbox Series X",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "Warner Bros. Games"
+    },
+    "103": {
+        "url": "https://www.bigboygames.com.br/jogo-f1-2021-xbox-series-x-xbox-one",
+        "arquivo": "bigboygames_0527",
+        "price": 329.99,
+        "title": "F1 2021 - Xbox Series X & Xbox One",
+        "genre": "Esportes",
+        "plataforma": "XBOX ONE",
+        "dev": "EA Sports"
+    },
+    "104": {
+        "url": "https://www.bigboygames.com.br/jogo-far-cry-6-xbox-one-p1006787",
+        "arquivo": "bigboygames_0530",
+        "price": 299.99,
+        "title": "Far Cry 6 - Xbox One & Xbox Series X",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX One",
+        "dev": "Ubisoft"
+    },
+    "105": {
+        "url": "https://www.bigboygames.com.br/jogo-killer-instinct-xbox-one",
+        "arquivo": "bigboygames_0556",
+        "price": "None",
+        "title": "Killer Instinct - Xbox One",
+        "genre": "Luta",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "106": {
+        "url": "https://www.bigboygames.com.br/terra-media-sombras-da-guerra-definitive-edition-xbox-one-5877-p995150",
+        "arquivo": "bigboygames_0559",
+        "price": "None",
+        "title": "Terra M\u00e9dia Sombras da Guerra Definitive Edition - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "107": {
+        "url": "https://www.bigboygames.com.br/batman-arkham-knight-xbox-one-1653-p987019",
+        "arquivo": "bigboygames_0560",
+        "price": "None",
+        "title": "Batman Arkham Knight - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "108": {
+        "url": "https://www.bigboygames.com.br/jogo-far-cry-4-complete-edition-xbox-one",
+        "arquivo": "bigboygames_0582",
+        "price": 319.99,
+        "title": "Far Cry 4 Complete Edition - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "Ubisoft"
+    },
+    "109": {
+        "url": "https://www.bigboygames.com.br/zombie-army-4-dead-war-xbox-one-10768-p1003885",
+        "arquivo": "bigboygames_0584",
+        "price": 249.99,
+        "title": "Zombie Army 4 Dead War - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "Rebellion / Sold Out"
+    },
+    "110": {
+        "url": "https://www.bigboygames.com.br/8-bit-armies-xbox-one-5063-p993757",
+        "arquivo": "bigboygames_0585",
+        "price": 149.99,
+        "title": "8 Bit Armies - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "111": {
+        "url": "https://www.bigboygames.com.br/code-vein-xbox-one",
+        "arquivo": "bigboygames_0586",
+        "price": 199.99,
+        "title": "Code Vein - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "Bandai Namco"
+    },
+    "112": {
+        "url": "https://www.bigboygames.com.br/mothergunship-xbox-one-5639-p994810",
+        "arquivo": "bigboygames_0587",
+        "price": "None",
+        "title": "Mothergunship - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "113": {
+        "url": "https://www.bigboygames.com.br/dynasty-warriors-9-xbox-one-4436-p992447",
+        "arquivo": "bigboygames_0588",
+        "price": "None",
+        "title": "Dynasty Warriors 9 - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "114": {
+        "url": "https://www.bigboygames.com.br/diablo-iii-ultimate-evil-edition-xbox-one-1759-p987256",
+        "arquivo": "bigboygames_0589",
+        "price": 299.99,
+        "title": "Diablo III (3) Ultimate Evil Edition - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "115": {
+        "url": "https://www.bigboygames.com.br/jogo-blair-witch-xbox-one-eur-p1007538",
+        "arquivo": "bigboygames_0590",
+        "price": 299.99,
+        "title": "Blair Witch - Xbox One",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "XBOX ONE",
+        "dev": "Deep Silver"
+    },
+    "116": {
+        "url": "https://www.bigboygames.com.br/valkyria-chronicles-4-xbox-one-5142-p993797",
+        "arquivo": "bigboygames_0592",
+        "price": 199.99,
+        "title": "Valkyria Chronicles 4 - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "117": {
+        "url": "https://www.bigboygames.com.br/bridge-constructor-portal-xbox-one-7019-p997537",
+        "arquivo": "bigboygames_0593",
+        "price": 199.99,
+        "title": "Bridge Constructor Portal - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "Nighthawk Interactive"
+    },
+    "118": {
+        "url": "https://www.bigboygames.com.br/northgard-xbox-one",
+        "arquivo": "bigboygames_0594",
+        "price": 179.99,
+        "title": "Northgard - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "Merge"
+    },
+    "119": {
+        "url": "https://www.bigboygames.com.br/jogo-bloodstained-ritual-of-the-night-xbox-one-us-p999681",
+        "arquivo": "bigboygames_0595",
+        "price": 199.99,
+        "title": "Bloodstained Ritual of the Night - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "505 Games"
+    },
+    "120": {
+        "url": "https://www.bigboygames.com.br/kingdom-hearts-iii-xbox-one",
+        "arquivo": "bigboygames_0596",
+        "price": "None",
+        "title": "Kingdom Hearts III (3) - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "121": {
+        "url": "https://www.bigboygames.com.br/project-highrise-architects-edition-xbox-one-5111-p993793",
+        "arquivo": "bigboygames_0597",
+        "price": "None",
+        "title": "Project Highrise Architects Edition - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "122": {
+        "url": "https://www.bigboygames.com.br/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-portugues-xbox-one-2437-p988810",
+        "arquivo": "bigboygames_0598",
+        "price": 179.99,
+        "title": "Naruto Shippuden Ultimate Ninja Storm 4 Road To Boruto (Portugu\u00eas) - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "Bandai Namco"
+    },
+    "123": {
+        "url": "https://www.bigboygames.com.br/dcl-drone-championship-league-xbox-one-11531-p1005567",
+        "arquivo": "bigboygames_0599",
+        "price": "None",
+        "title": "DCL Drone Championship League - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "THQ Nordic"
+    },
+    "124": {
+        "url": "https://www.bigboygames.com.br/risk-of-rain-2-bundle-xbox-one-10719-p1003796",
+        "arquivo": "bigboygames_0600",
+        "price": 199.99,
+        "title": "Risk Of Rain 2 Bundle - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "Gearbox Publishing"
+    },
+    "125": {
+        "url": "https://www.bigboygames.com.br/sid-meiers-civilization-vi-xbox-one-10712-p1003773",
+        "arquivo": "bigboygames_0601",
+        "price": 199.99,
+        "title": "Sid Meiers Civilization VI (6) - Xbox One",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "126": {
+        "url": "https://www.bigboygames.com.br/cars-3-drive-to-win-xbox-one-4377-p992425",
+        "arquivo": "bigboygames_0604",
+        "price": 179.99,
+        "title": "Cars 3 Drive To Win - Xbox One",
+        "genre": "Corrida",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "127": {
+        "url": "https://www.bigboygames.com.br/veloses-furiosos-encruzilhada-xbox-one-br-10913-p1004187",
+        "arquivo": "bigboygames_0605",
+        "price": 229.99,
+        "title": "Velozes e Furiosos Encruzilhada - Xbox One",
+        "genre": "Corrida",
+        "plataforma": "XBOX ONE",
+        "dev": "Bandai Namco"
+    },
+    "128": {
+        "url": "https://www.bigboygames.com.br/soulcalibur-vi-xbox-one-5120-p993816",
+        "arquivo": "bigboygames_0607",
+        "price": "None",
+        "title": "Soulcalibur VI (6) - Xbox One",
+        "genre": "Luta",
+        "plataforma": "XBOX ONE",
+        "dev": "MICROSOFT"
+    },
+    "129": {
+        "url": "https://www.bigboygames.com.br/kinect-fable-the-journey-xbox-360-476",
+        "arquivo": "bigboygames_0635",
+        "price": "None",
+        "title": "Kinect Fable - The Journey - Xbox 360",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "130": {
+        "url": "https://www.bigboygames.com.br/dishonored-xbox-360-420",
+        "arquivo": "bigboygames_0636",
+        "price": "None",
+        "title": "Dishonored - Xbox 360",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "131": {
+        "url": "https://www.bigboygames.com.br/self-defense-training-camp-kinect-xbox-360-3243",
+        "arquivo": "bigboygames_0637",
+        "price": "None",
+        "title": "Self Defense: Training Camp Kinect - Xbox 360",
+        "genre": "Luta",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "132": {
+        "url": "https://www.bigboygames.com.br/motionsports-play-for-real-xbox360-3231",
+        "arquivo": "bigboygames_0638",
+        "price": "None",
+        "title": "Motionsports: Play For Real - Xbox 360",
+        "genre": "Esportes",
+        "plataforma": "Xbos 360",
+        "dev": "MICROSOFT"
+    },
+    "133": {
+        "url": "https://www.bigboygames.com.br/deadliest-warrior-ancient-combat-xbox360-3194",
+        "arquivo": "bigboygames_0639",
+        "price": "None",
+        "title": "Deadliest Warrior: Ancient Combat - Xbox 360",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "134": {
+        "url": "https://www.bigboygames.com.br/armored-core-verdict-day-xbox-360-3163",
+        "arquivo": "bigboygames_0640",
+        "price": "None",
+        "title": "Armored Core V (5) Verdict Day - Xbox 360",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "135": {
+        "url": "https://www.bigboygames.com.br/defiance-xbox-360-2995",
+        "arquivo": "bigboygames_0641",
+        "price": "None",
+        "title": "Defiance - Xbox 360",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Xbox 360",
+        "dev": "Trion"
+    },
+    "136": {
+        "url": "https://www.bigboygames.com.br/men-in-black-alien-crisis-xbox-360-2388",
+        "arquivo": "bigboygames_0642",
+        "price": "None",
+        "title": "Men In Black: Alien Crisis - Xbox 360",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "None",
+        "dev": "MICROSOFT"
+    },
+    "137": {
+        "url": "https://www.bigboygames.com.br/adrenalin-misfits-xbox-360-2378",
+        "arquivo": "bigboygames_0643",
+        "price": "None",
+        "title": "Adrenalin Misfits - Xbox 360",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "138": {
+        "url": "https://www.bigboygames.com.br/remember-me-xbox-360-184",
+        "arquivo": "bigboygames_0644",
+        "price": "None",
+        "title": "Remember Me - Xbox 360",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "139": {
+        "url": "https://www.bigboygames.com.br/murdered-soul-suspect-xbox-360-174",
+        "arquivo": "bigboygames_0645",
+        "price": "None",
+        "title": "Murdered: Soul Suspect - Xbox 360",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "MICROSOFT"
+    },
+    "140": {
+        "url": "https://www.bigboygames.com.br/killer-is-dead-limited-edition-xbox-360-4925",
+        "arquivo": "bigboygames_0649",
+        "price": "None",
+        "title": "Syndicate - Xbox 360",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "141": {
+        "url": "https://www.bigboygames.com.br/devil-may-cry-4-platinum-hits-xbox-360-140",
+        "arquivo": "bigboygames_0650",
+        "price": "None",
+        "title": "Devil May Cry 4 Platinum Hits - Xbox 360",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "142": {
+        "url": "https://www.bigboygames.com.br/max-payne-3-xbox-360-431-p986078",
+        "arquivo": "bigboygames_0668",
+        "price": 179.99,
+        "title": "Max Payne 3 - Xbox 360",
+        "genre": "A\u00e7\u00e3o | Guerra",
+        "plataforma": "Xbox 360",
+        "dev": "MICROSOFT"
+    },
+    "143": {
+        "url": "https://www.bigboygames.com.br/risen-2-dark-waters-xbox-360-5263",
+        "arquivo": "bigboygames_0670",
+        "price": 99.99,
+        "title": "Risen 2 Dark Waters - Xbox 360",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "MICROSOFT"
+    },
+    "144": {
+        "url": "https://www.bigboygames.com.br/action-figure-dragon-ball-super-son-gohan-ref-2989729898-11179",
+        "arquivo": "bigboygames_0863",
+        "price": "None",
+        "title": "Action Figure Dragon Ball Super Son Gohan Ref: 29897/29898",
+        "genre": "Action Figure",
+        "plataforma": "None",
+        "dev": "COLECION\u00c1VEIS"
+    },
+    "145": {
+        "url": "https://www.bigboygames.com.br/funko-pop-wilson-fisk-4853",
+        "arquivo": "bigboygames_0864",
+        "price": "None",
+        "title": "Funko Pop Wilson Fisk",
+        "genre": "Funko Pop",
+        "plataforma": "None",
+        "dev": "FUNKO"
+    },
+    "146": {
+        "url": "https://www.bigboygames.com.br/action-figure-shenlong-bronze-5367-p994415",
+        "arquivo": "bigboygames_0874",
+        "price": 399.99,
+        "title": "Figure Shenlong Variant Version Dragon Ball Z Creator X Creator",
+        "genre": "Action Figure",
+        "plataforma": "None",
+        "dev": "COLECION\u00c1VEIS"
+    },
+    "147": {
+        "url": "https://www.bigboygames.com.br/jogo-deer-drive-wii-us-14448",
+        "arquivo": "bigboygames_0890",
+        "price": "None",
+        "title": "Deer Drive - Wii",
+        "genre": "Nintendo Wii",
+        "plataforma": "Wii",
+        "dev": "NINTENDO"
+    },
+    "148": {
+        "url": "https://www.bigboygames.com.br/rayman-raving-rabbids-tv-party-ds-us-13535",
+        "arquivo": "bigboygames_0891",
+        "price": "None",
+        "title": "Rayman Raving Rabbids TV Party - DS",
+        "genre": "Infantil | Fam\u00edlia",
+        "plataforma": "Nintendo DS",
+        "dev": "NINTENDO"
+    },
+    "149": {
+        "url": "https://www.bigboygames.com.br/jogo-high-school-musical-sing-it-ps2-p1009110",
+        "arquivo": "bigboygames_0892",
+        "price": "None",
+        "title": "High School Musical Sing It! - PS2",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "None",
+        "dev": "SONY"
+    },
+    "150": {
+        "url": "https://www.bigboygames.com.br/jogo-os-smurfs2-seminovo-nintendo-ds-13133-p1008960",
+        "arquivo": "bigboygames_0926",
+        "price": 49.99,
+        "title": "Os Smurfs 2 - NDS",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "DS",
+        "dev": "NINTENDO"
+    },
+    "151": {
+        "url": "https://www.bigboygames.com.br/jogo-game-tinkerbell-great-fairy-rescue-nintendo-ds-13017-p1008951",
+        "arquivo": "bigboygames_0927",
+        "price": 49.99,
+        "title": "Tinkerbell Great Fairy Rescue - NDS",
+        "genre": "Estrat\u00e9gia | Aventura | RPG",
+        "plataforma": "DS",
+        "dev": "Nintendo"
+    },
+    "152": {
+        "url": "https://www.shockgames.com.br/produto/xenoblade-chronicles-3-switch.html",
+        "arquivo": "shockgames_0117",
+        "price": 444.89,
+        "title": "Xenoblade Chronicles 3 - Switch",
+        "genre": "RPG",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "153": {
+        "url": "https://www.shockgames.com.br/injustice-2-legendary-edition-ps4",
+        "arquivo": "shockgames_0121",
+        "price": 104.89,
+        "title": "Injustice 2 Legendary Edition - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Luta",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "154": {
+        "url": "https://www.shockgames.com.br/the-legend-of-zelda-links-awakening-switch",
+        "arquivo": "shockgames_0122",
+        "price": 434.89,
+        "title": "The Legend of Zelda: Link's Awakening - Switch - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "155": {
+        "url": "https://www.shockgames.com.br/batman-arkham-knight-xbox-one",
+        "arquivo": "shockgames_0161",
+        "price": 84.89,
+        "title": "Batman: Arkham Knight - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "156": {
+        "url": "https://www.shockgames.com.br/produto/nba-2k22-xbox.html",
+        "arquivo": "shockgames_0163",
+        "price": 339.89,
+        "title": "NBA 2K22 - Xbox - M\u00eddia F\u00edsica",
+        "genre": "Esporte",
+        "plataforma": "Xbox",
+        "dev": "2k Games"
+    },
+    "157": {
+        "url": "https://www.shockgames.com.br/astral-chain-switch",
+        "arquivo": "shockgames_0167",
+        "price": 444.89,
+        "title": "Astral Chain - Switch - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "158": {
+        "url": "https://www.shockgames.com.br/kingdom-hearts-melody-of-memory-ps4",
+        "arquivo": "shockgames_0169",
+        "price": 254.89,
+        "title": "Kingdom Hearts: Melody of Memory - PS4 - M\u00eddia F\u00edsica",
+        "genre": "M\u00fasica, Ritmo",
+        "plataforma": "PS4",
+        "dev": "Square Enix"
+    },
+    "159": {
+        "url": "https://www.shockgames.com.br/lego-marvel-super-heroes-ps4",
+        "arquivo": "shockgames_0171",
+        "price": 84.89,
+        "title": "Lego Marvel Super Heroes - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "160": {
+        "url": "https://www.shockgames.com.br/red-dead-redemption-2-ps4",
+        "arquivo": "shockgames_0173",
+        "price": 159.89,
+        "title": "Red Dead Redemption 2 - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "PS4",
+        "dev": "Rockstar Games"
+    },
+    "161": {
+        "url": "https://www.shockgames.com.br/fifa-22-xbox",
+        "arquivo": "shockgames_0177",
+        "price": 369.89,
+        "title": "FIFA 22 - Xbox - M\u00eddia F\u00edsica",
+        "genre": "Esporte",
+        "plataforma": "Xbox",
+        "dev": "EA"
+    },
+    "162": {
+        "url": "https://www.shockgames.com.br/ben-10-uma-super-viagem-xbox-one",
+        "arquivo": "shockgames_0179",
+        "price": 244.89,
+        "title": "Ben 10: Uma Super Viagem - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "Xbox One",
+        "dev": "Outright Games"
+    },
+    "163": {
+        "url": "https://www.shockgames.com.br/one-punch-man-a-hero-nobody-knows-xbox-one",
+        "arquivo": "shockgames_0181",
+        "price": 149.89,
+        "title": "One Punch Man: A Hero Nobody Knows - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "Luta",
+        "plataforma": "Xbox One",
+        "dev": "Konami"
+    },
+    "164": {
+        "url": "https://www.shockgames.com.br/produto/metro-exodus-complete-edition-xbox.html",
+        "arquivo": "shockgames_0183",
+        "price": 234.89,
+        "title": "Metro Exodus: Complete Edition - Xbox - M\u00eddia F\u00edsica",
+        "genre": "Tiro",
+        "plataforma": "Xbox",
+        "dev": "Deep Silver"
+    },
+    "165": {
+        "url": "https://www.shockgames.com.br/nioh-2-ps4",
+        "arquivo": "shockgames_0185",
+        "price": 149.89,
+        "title": "Nioh 2 - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "PS4",
+        "dev": "Koei Tecmo"
+    },
+    "166": {
+        "url": "https://www.shockgames.com.br/produto/pokemon-violet-switch.html",
+        "arquivo": "shockgames_0187",
+        "price": 474.89,
+        "title": "Pok\u00e9mon Violet - Switch - Pr\u00e9-Venda",
+        "genre": "Aventura, RPG",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "167": {
+        "url": "https://www.shockgames.com.br/produto/pokemon-scarlet-switch.html",
+        "arquivo": "shockgames_0189",
+        "price": 474.89,
+        "title": "Pok\u00e9mon Scarlet - Switch - Pr\u00e9-Venda",
+        "genre": "Aventura, RPG",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "168": {
+        "url": "https://www.shockgames.com.br/lego-batman-3-beyond-gotham-ps4",
+        "arquivo": "shockgames_0193",
+        "price": 84.89,
+        "title": "Lego Batman 3: Beyond Gotham - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "169": {
+        "url": "https://www.shockgames.com.br/darksiders-genesis-ps4",
+        "arquivo": "shockgames_0195",
+        "price": 169.89,
+        "title": "Darksiders Genesis - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "PS4",
+        "dev": "THQ Nordic"
+    },
+    "170": {
+        "url": "https://www.shockgames.com.br/produto/grand-theft-auto-trilogy-ps4.html",
+        "arquivo": "shockgames_0197",
+        "price": 254.89,
+        "title": "Grand Theft Auto: Trilogy - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Rockstar Games"
+    },
+    "171": {
+        "url": "https://www.shockgames.com.br/lego-star-wars-o-despertar-da-forca-ps4",
+        "arquivo": "shockgames_0199",
+        "price": 84.89,
+        "title": "Lego Star Wars: O Despertar da For\u00e7a - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "172": {
+        "url": "https://www.shockgames.com.br/lego-marvel-vingadores-ps4",
+        "arquivo": "shockgames_0201",
+        "price": 84.89,
+        "title": "Lego Marvel Vingadores - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "173": {
+        "url": "https://www.shockgames.com.br/produto/pokemon-shining-pearl-switch.html",
+        "arquivo": "shockgames_0203",
+        "price": 474.89,
+        "title": "Pok\u00e9mon Shining Pearl - Switch",
+        "genre": "Aventura, RPG",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "174": {
+        "url": "https://www.shockgames.com.br/produto/pokemon-legends-arceus-switch.html",
+        "arquivo": "shockgames_0205",
+        "price": 474.89,
+        "title": "Pok\u00e9mon Legends Arceus - Switch",
+        "genre": "None",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "175": {
+        "url": "https://www.shockgames.com.br/animal-crossing-new-horizons-switch",
+        "arquivo": "shockgames_0207",
+        "price": 484.89,
+        "title": "Animal Crossing: New Horizons - Switch - M\u00eddia F\u00edsica",
+        "genre": "Simula\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "176": {
+        "url": "https://www.shockgames.com.br/produto/lego-star-wars-the-skywalker-saga-ps4.html",
+        "arquivo": "shockgames_0209",
+        "price": 84.89,
+        "title": "Lego Star Wars: The Skywalker Saga - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "TT Games"
+    },
+    "177": {
+        "url": "https://www.shockgames.com.br/sonic-mania-plus-ps4",
+        "arquivo": "shockgames_0211",
+        "price": 284.89,
+        "title": "Sonic Mania Plus - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS4",
+        "dev": "Sega"
+    },
+    "178": {
+        "url": "https://www.shockgames.com.br/lego-harry-potter-collection-ps4",
+        "arquivo": "shockgames_0334",
+        "price": 84.89,
+        "title": "Lego Harry Potter Collection - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "179": {
+        "url": "https://www.shockgames.com.br/control-ps4",
+        "arquivo": "shockgames_0338",
+        "price": 104.89,
+        "title": "Control - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "PS4",
+        "dev": "505 Games"
+    },
+    "180": {
+        "url": "https://www.shockgames.com.br/produto/horizon-zero-dawn-forbidden-west-ps5.html",
+        "arquivo": "shockgames_0340",
+        "price": 359.89,
+        "title": "Horizon Forbidden West - PS5",
+        "genre": "Aventura / Mundo Aberto",
+        "plataforma": "PS5",
+        "dev": "Sony"
+    },
+    "181": {
+        "url": "https://www.shockgames.com.br/produto/far-cry-6-ps4.html",
+        "arquivo": "shockgames_0344",
+        "price": 179.89,
+        "title": "Far Cry 6 - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Tiro",
+        "plataforma": "PS4",
+        "dev": "Ubisoft"
+    },
+    "182": {
+        "url": "https://www.shockgames.com.br/sackboy-uma-grande-aventura-ps4",
+        "arquivo": "shockgames_0346",
+        "price": 254.89,
+        "title": "Sackboy: Uma Grande Aventura - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura, Plataforma",
+        "plataforma": "PS4",
+        "dev": "Sony"
+    },
+    "183": {
+        "url": "https://www.shockgames.com.br/persona-5-strikers-ps4",
+        "arquivo": "shockgames_0348",
+        "price": 274.89,
+        "title": "Persona 5 Strikers - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "PS4",
+        "dev": "Atlus"
+    },
+    "184": {
+        "url": "https://www.shockgames.com.br/lego-ninjago-o-filme-video-game-ps4",
+        "arquivo": "shockgames_0350",
+        "price": 84.89,
+        "title": "Lego Ninjago O Filme: Video Game - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "185": {
+        "url": "https://www.shockgames.com.br/rise-of-the-tomb-raider-ps4",
+        "arquivo": "shockgames_0352",
+        "price": 234.89,
+        "title": "Rise of the Tomb Raider - PS4",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "PS4",
+        "dev": "Square Enix"
+    },
+    "186": {
+        "url": "https://www.shockgames.com.br/lego-city-undercover-ps4",
+        "arquivo": "shockgames_0356",
+        "price": 84.89,
+        "title": "Lego City Undercover - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "187": {
+        "url": "https://www.shockgames.com.br/produto/mega-man-zerozx-legacy-collection-ps4.html",
+        "arquivo": "shockgames_0358",
+        "price": 284.89,
+        "title": "Mega Man Zero/ZX Legacy Collection - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Capcom"
+    },
+    "188": {
+        "url": "https://www.shockgames.com.br/shenmue-iii-ps4",
+        "arquivo": "shockgames_0360",
+        "price": 139.89,
+        "title": "Shenmue III - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "PS4",
+        "dev": "Deep Silver"
+    },
+    "189": {
+        "url": "https://www.shockgames.com.br/PS4J-226",
+        "arquivo": "shockgames_0362",
+        "price": 84.89,
+        "title": "Terra M\u00e9dia: Sombras da Guerra Edi\u00e7\u00e3o Definitiva - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "190": {
+        "url": "https://www.shockgames.com.br/sackboy-uma-grande-aventura-ps5",
+        "arquivo": "shockgames_0364",
+        "price": 234.89,
+        "title": "Sackboy: Uma Grande Aventura - PS5 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura, Plataforma",
+        "plataforma": "PS5",
+        "dev": "Sony"
+    },
+    "191": {
+        "url": "https://www.shockgames.com.br/balan-wonderworld-ps4",
+        "arquivo": "shockgames_0366",
+        "price": 264.89,
+        "title": "Balan Wonderworld - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Plataforma",
+        "plataforma": "PS4",
+        "dev": "Square Enix"
+    },
+    "192": {
+        "url": "https://www.shockgames.com.br/returnal-ps5",
+        "arquivo": "shockgames_0368",
+        "price": 359.89,
+        "title": "Returnal - PS5 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Tiro, Aventura",
+        "plataforma": "PS5",
+        "dev": "Sony"
+    },
+    "193": {
+        "url": "https://www.shockgames.com.br/assetto-corsa-ps4",
+        "arquivo": "shockgames_0370",
+        "price": 104.89,
+        "title": "Assetto Corsa - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Corrida",
+        "plataforma": "PS4",
+        "dev": "505 Games"
+    },
+    "194": {
+        "url": "https://www.shockgames.com.br/produto/deathloop-ps5.html",
+        "arquivo": "shockgames_0372",
+        "price": 304.89,
+        "title": "Deathloop - PS5",
+        "genre": "Tiro, A\u00e7\u00e3o",
+        "plataforma": "PS5",
+        "dev": "Bethesda"
+    },
+    "195": {
+        "url": "https://www.shockgames.com.br/demons-souls-ps5",
+        "arquivo": "shockgames_0374",
+        "price": 359.89,
+        "title": "Demon's Souls - PS5 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura, RPG",
+        "plataforma": "PS5",
+        "dev": "Sony"
+    },
+    "196": {
+        "url": "https://www.shockgames.com.br/far-cry-new-dawn-ps4",
+        "arquivo": "shockgames_0378",
+        "price": 179.89,
+        "title": "Far Cry New Dawn - PS4",
+        "genre": "A\u00e7\u00e3o, Tiro",
+        "plataforma": "PS4",
+        "dev": "Ubisoft"
+    },
+    "197": {
+        "url": "https://www.shockgames.com.br/need-for-speed-ps4",
+        "arquivo": "shockgames_0386",
+        "price": 199.89,
+        "title": "Need for Speed - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Corrida",
+        "plataforma": "PS4",
+        "dev": "EA"
+    },
+    "198": {
+        "url": "https://www.shockgames.com.br/carros-3-correndo-para-vencer-ps4",
+        "arquivo": "shockgames_0398",
+        "price": 199.89,
+        "title": "Carros 3: Correndo para Vencer - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Corrida",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "199": {
+        "url": "https://www.shockgames.com.br/dragon-ball-fighterz-ps4",
+        "arquivo": "shockgames_0400",
+        "price": 159.89,
+        "title": "Dragon Ball FighterZ - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Luta",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "200": {
+        "url": "https://www.shockgames.com.br/produto/doom-eternal-ps4.html",
+        "arquivo": "shockgames_0402",
+        "price": 274.89,
+        "title": "Doom Eternal - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Bethesda"
+    },
+    "201": {
+        "url": "https://www.shockgames.com.br/dragon-age-inquisition-ps4",
+        "arquivo": "shockgames_0404",
+        "price": 64.89,
+        "title": "Dragon Age Inquisition - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, RPG",
+        "plataforma": "PS4",
+        "dev": "EA"
+    },
+    "202": {
+        "url": "https://www.shockgames.com.br/produto/hades-ps4",
+        "arquivo": "shockgames_0406",
+        "price": 169.89,
+        "title": "Hades - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Supergiant Games"
+    },
+    "203": {
+        "url": "https://www.shockgames.com.br/grand-theft-auto-v-edicao-online-premium-ps4",
+        "arquivo": "shockgames_0408",
+        "price": 169.89,
+        "title": "Grand Theft Auto V: Edi\u00e7\u00e3o Online Premium - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Tiro",
+        "plataforma": "PS4",
+        "dev": "Rockstar Games"
+    },
+    "204": {
+        "url": "https://www.shockgames.com.br/watch-dogs-2-ps4",
+        "arquivo": "shockgames_0410",
+        "price": 129.89,
+        "title": "Watch Dogs 2 - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "PS4",
+        "dev": "Ubisoft"
+    },
+    "205": {
+        "url": "https://www.shockgames.com.br/produto/need-for-speed-hot-pursuit-remastered-ps4.html",
+        "arquivo": "shockgames_0412",
+        "price": 199.89,
+        "title": "Need For Speed: Hot Pursuit Remastered - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "EA"
+    },
+    "206": {
+        "url": "https://www.shockgames.com.br/produto/neo-the-world-ends-with-you-ps4.html",
+        "arquivo": "shockgames_0414",
+        "price": 284.89,
+        "title": "Neo: The World Ends With You - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, RPG",
+        "plataforma": "PS4",
+        "dev": "Square Enix"
+    },
+    "207": {
+        "url": "https://www.shockgames.com.br/produto/terra-media-sombras-de-mordor-edicao-jogo-do-ano-ps4.html",
+        "arquivo": "shockgames_0416",
+        "price": 84.89,
+        "title": "Terra M\u00e9dia: Sombras de Mordor - Edi\u00e7\u00e3o Jogo do Ano - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "Edi\u00e7\u00e3o Jogo do Ano",
+        "dev": "Sony"
+    },
+    "208": {
+        "url": "https://www.shockgames.com.br/produto/headset-turtle-beach-recon-200-branco-ps4.html",
+        "arquivo": "shockgames_0426",
+        "price": 234.89,
+        "title": "Headset Turtle Beach Recon 200 Branco - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Turtle Beach"
+    },
+    "209": {
+        "url": "https://www.shockgames.com.br/produto/controle-nacon-revolution-pro-3-camuflado-verde-ps4.html",
+        "arquivo": "shockgames_0438",
+        "price": 864.89,
+        "title": "Controle Nacon Revolution PRO 3 Camuflado Verde - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Nacon"
+    },
+    "210": {
+        "url": "https://www.shockgames.com.br/uncharted-4-a-thiefs-end-ps4",
+        "arquivo": "shockgames_0510",
+        "price": 284.89,
+        "title": "Uncharted 4 A Thiefs End - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "PS4",
+        "dev": "Sony"
+    },
+    "211": {
+        "url": "https://www.shockgames.com.br/produto/lost-judgment-ps4.html",
+        "arquivo": "shockgames_0514",
+        "price": 294.89,
+        "title": "Lost Judgment - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Sega"
+    },
+    "212": {
+        "url": "https://www.shockgames.com.br/batman-arkham-knight-ps4",
+        "arquivo": "shockgames_0516",
+        "price": 84.89,
+        "title": "Batman: Arkham Knight - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "213": {
+        "url": "https://www.shockgames.com.br/a-way-out-ps4",
+        "arquivo": "shockgames_0518",
+        "price": 104.89,
+        "title": "A Way Out - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Tiro",
+        "plataforma": "PS4",
+        "dev": "EA"
+    },
+    "214": {
+        "url": "https://www.shockgames.com.br/black-clover-quartet-knights-ps4",
+        "arquivo": "shockgames_0520",
+        "price": 159.89,
+        "title": "Black Clover: Quartet Knights - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Luta",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "215": {
+        "url": "https://www.shockgames.com.br/darksiders-iii-ps4",
+        "arquivo": "shockgames_0522",
+        "price": 169.89,
+        "title": "Darksiders III - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "PS4",
+        "dev": "THQ Nordic"
+    },
+    "216": {
+        "url": "https://www.shockgames.com.br/produto/metal-gear-solid-v-the-definitive-experience-ps4.html",
+        "arquivo": "shockgames_0524",
+        "price": 44.89,
+        "title": "Metal Gear Solid V The Definitive Experience - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Konami"
+    },
+    "217": {
+        "url": "https://www.shockgames.com.br/produto/dungeons-dragons-dark-alliance-ps4.html",
+        "arquivo": "shockgames_0528",
+        "price": 434.89,
+        "title": "Dungeons & Dragons: Dark Alliance - PS4 - M\u00eddia F\u00edsica",
+        "genre": "RPG",
+        "plataforma": "PS4",
+        "dev": "Wizards of the Coast"
+    },
+    "218": {
+        "url": "https://www.shockgames.com.br/produto/outriders-ps4.html",
+        "arquivo": "shockgames_0530",
+        "price": 274.89,
+        "title": "Outriders - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Square Enix"
+    },
+    "219": {
+        "url": "https://www.shockgames.com.br/concrete-genie-ps4",
+        "arquivo": "shockgames_0532",
+        "price": 274.89,
+        "title": "Concrete Genie - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "PS4",
+        "dev": "Sony"
+    },
+    "220": {
+        "url": "https://www.shockgames.com.br/produto/darksiders-ii-deathinitive-edition-ps4.html",
+        "arquivo": "shockgames_0534",
+        "price": 169.89,
+        "title": "Darksiders II Deathinitive Edition - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Nordic Games"
+    },
+    "221": {
+        "url": "https://www.shockgames.com.br/produto/elden-ring-ps4.html",
+        "arquivo": "shockgames_0536",
+        "price": 274.89,
+        "title": "Elden Ring - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura / Mundo Aberto",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "222": {
+        "url": "https://www.shockgames.com.br/produto/horizon-zero-dawn-forbidden-west-ps4.html",
+        "arquivo": "shockgames_0538",
+        "price": 304.89,
+        "title": "Horizon Forbidden West - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Aventura / Mundo Aberto",
+        "plataforma": "PS4",
+        "dev": "Sony"
+    },
+    "223": {
+        "url": "https://www.shockgames.com.br/produto/sonic-colors-ultimate-ps4.html",
+        "arquivo": "shockgames_0540",
+        "price": 484.89,
+        "title": "Sonic Colors Ultimate - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Sega"
+    },
+    "224": {
+        "url": "https://www.shockgames.com.br/produto/horizon-chase-turbo-senna-sempre-ps4.html",
+        "arquivo": "shockgames_0572",
+        "price": 104.89,
+        "title": "Horizon Chase Turbo Senna Sempre - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Sony"
+    },
+    "225": {
+        "url": "https://www.shockgames.com.br/produto/project-cars-3-ps4.html",
+        "arquivo": "shockgames_0574",
+        "price": 199.89,
+        "title": "Project Cars 3 - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "226": {
+        "url": "https://www.shockgames.com.br/sid-meiers-civilization-vi-ps4",
+        "arquivo": "shockgames_0594",
+        "price": 104.89,
+        "title": "Sid Meier's Civilization VI - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "2k Games"
+    },
+    "227": {
+        "url": "https://www.shockgames.com.br/scarlet-nexus-ps4",
+        "arquivo": "shockgames_0596",
+        "price": 264.89,
+        "title": "Scarlet Nexus - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "228": {
+        "url": "https://www.shockgames.com.br/produto/atari-flashback-classics-vol-2-ps4.html",
+        "arquivo": "shockgames_0598",
+        "price": 149.89,
+        "title": "Atari Flashback Classics Vol. 2 - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Atari"
+    },
+    "229": {
+        "url": "https://www.shockgames.com.br/produto/harvest-moon-light-of-hope-special-edition-ps4.html",
+        "arquivo": "shockgames_0600",
+        "price": 104.89,
+        "title": "Harvest Moon: Light of Hope Special Edition - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Natsume"
+    },
+    "230": {
+        "url": "https://www.shockgames.com.br/dark-souls-remastered-ps4",
+        "arquivo": "shockgames_0624",
+        "price": 199.89,
+        "title": "Dark Souls: Remastered - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, RPG",
+        "plataforma": "PS4",
+        "dev": "Bandai Namco"
+    },
+    "231": {
+        "url": "https://www.shockgames.com.br/produto/back-4-blood-ps4.html",
+        "arquivo": "shockgames_0640",
+        "price": 294.89,
+        "title": "Back 4 Blood - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Tiro",
+        "plataforma": "PS4",
+        "dev": "WB Games"
+    },
+    "232": {
+        "url": "https://www.shockgames.com.br/produto/rainbow-six-extraction-ps4.html",
+        "arquivo": "shockgames_0642",
+        "price": 274.89,
+        "title": "Rainbow Six Extraction - PS4 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": "Ubisoft"
+    },
+    "233": {
+        "url": "https://www.shockgames.com.br/produto/battlefield-2042-ps4.html",
+        "arquivo": "shockgames_0644",
+        "price": 294.89,
+        "title": "Battlefield 2042 - PS4 - M\u00eddia F\u00edsica",
+        "genre": "Tiro",
+        "plataforma": "PS4",
+        "dev": "EA"
+    },
+    "234": {
+        "url": "https://www.shockgames.com.br/borderlands-the-handsome-collection-ps4",
+        "arquivo": "shockgames_0646",
+        "price": 84.89,
+        "title": "Borderlands: The Handsome Collection - PS4 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Tiro",
+        "plataforma": "PS4",
+        "dev": "2k Games"
+    },
+    "235": {
+        "url": "https://www.shockgames.com.br/fifa-22-ps5",
+        "arquivo": "shockgames_0686",
+        "price": 369.89,
+        "title": "FIFA 22 - PS5 - M\u00eddia F\u00edsica",
+        "genre": "Esporte",
+        "plataforma": "PS5",
+        "dev": "EA"
+    },
+    "236": {
+        "url": "https://www.shockgames.com.br/metro-exodus-complete-edition-ps5",
+        "arquivo": "shockgames_0690",
+        "price": 234.89,
+        "title": "Metro Exodus: Complete Edition - PS5 - M\u00eddia F\u00edsica",
+        "genre": "Tiro",
+        "plataforma": "PS5",
+        "dev": "Deep Silver"
+    },
+    "237": {
+        "url": "https://www.shockgames.com.br/just-dance-2021-ps5",
+        "arquivo": "shockgames_0692",
+        "price": 359.89,
+        "title": "Just Dance 2021 - PS5 - M\u00eddia F\u00edsica",
+        "genre": "Musical, Fam\u00edlia",
+        "plataforma": "PS5",
+        "dev": "Ubisoft"
+    },
+    "238": {
+        "url": "https://www.shockgames.com.br/produto/lego-star-wars-the-skywalker-saga-deluxe-edition-ps5.html",
+        "arquivo": "shockgames_0694",
+        "price": 84.89,
+        "title": "Lego Star Wars: The Skywalker Saga Deluxe Edition - PS5",
+        "genre": "None",
+        "plataforma": "PS5",
+        "dev": "TT Games"
+    },
+    "239": {
+        "url": "https://www.shockgames.com.br/produto/far-cry-6-ps5.html",
+        "arquivo": "shockgames_0696",
+        "price": 199.89,
+        "title": "Far Cry 6 - PS5",
+        "genre": "Tiro",
+        "plataforma": "PS5",
+        "dev": "Ubisoft"
+    },
+    "240": {
+        "url": "https://www.shockgames.com.br/produto/hades-ps5.html",
+        "arquivo": "shockgames_0698",
+        "price": 169.89,
+        "title": "Hades - PS5 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, RPG",
+        "plataforma": "PS5",
+        "dev": "Supergiant Games"
+    },
+    "241": {
+        "url": "https://www.shockgames.com.br/produto/uncharted-legacy-of-thieves-collection-ps5.html",
+        "arquivo": "shockgames_0700",
+        "price": 254.89,
+        "title": "Uncharted: Legacy of Thieves Collection - PS5 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS5",
+        "dev": "Sony"
+    },
+    "242": {
+        "url": "https://www.shockgames.com.br/immortals-fenyx-rising-ps5",
+        "arquivo": "shockgames_0702",
+        "price": 359.89,
+        "title": "Immortals: Fenyx Rising - PS5 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "PS5",
+        "dev": "Ubisoft"
+    },
+    "243": {
+        "url": "https://www.shockgames.com.br/produto/rainbow-six-extraction-ps5.html",
+        "arquivo": "shockgames_0704",
+        "price": 304.89,
+        "title": "Rainbow Six Extraction - PS5 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS5",
+        "dev": "Ubisoft"
+    },
+    "244": {
+        "url": "https://www.shockgames.com.br/produto/dying-light-2-ps5.html",
+        "arquivo": "shockgames_0708",
+        "price": 284.89,
+        "title": "Dying Light 2 - PS5 - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "PS5",
+        "dev": "Techland"
+    },
+    "245": {
+        "url": "https://www.shockgames.com.br/produto/death-stranding-directors-cut-ps5.html",
+        "arquivo": "shockgames_0744",
+        "price": 339.89,
+        "title": "Death Stranding Director's Cut - PS5 - M\u00eddia F\u00edsica",
+        "genre": "Aventura / Mundo Aberto",
+        "plataforma": "PS5",
+        "dev": "Sony"
+    },
+    "246": {
+        "url": "https://www.shockgames.com.br/produto/PS5J-028.html",
+        "arquivo": "shockgames_0746",
+        "price": 349.89,
+        "title": "Back 4 Blood - PS5 - M\u00eddia F\u00edsica",
+        "genre": "Tiro",
+        "plataforma": "PS5",
+        "dev": "WB Games"
+    },
+    "247": {
+        "url": "https://www.shockgames.com.br/marvels-spider-man-miles-morales-ps5",
+        "arquivo": "shockgames_0748",
+        "price": 189.89,
+        "title": "Marvel's Spider-Man: Miles Morales - PS5 - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura",
+        "plataforma": "Man: Miles Morales",
+        "dev": "Sony"
+    },
+    "248": {
+        "url": "https://www.shockgames.com.br/nba-2k21-xbox",
+        "arquivo": "shockgames_0792",
+        "price": 349.89,
+        "title": "NBA 2K21 - Xbox - M\u00eddia F\u00edsica",
+        "genre": "Esporte",
+        "plataforma": "Xbox",
+        "dev": "2k Games"
+    },
+    "249": {
+        "url": "https://www.shockgames.com.br/assassins-creed-revelations-xbox-one",
+        "arquivo": "shockgames_0794",
+        "price": 74.89,
+        "title": "Assassin's Creed Revelations - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Xbox One",
+        "dev": "Ubisoft"
+    },
+    "250": {
+        "url": "https://www.shockgames.com.br/dragon-ball-fighterz-xbox-one",
+        "arquivo": "shockgames_0796",
+        "price": 159.89,
+        "title": "Dragon Ball FighterZ - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "Luta",
+        "plataforma": "Xbox One",
+        "dev": "Bandai Namco"
+    },
+    "251": {
+        "url": "https://www.shockgames.com.br/for-honor-marching-fire-xbox-one",
+        "arquivo": "shockgames_0798",
+        "price": 149.89,
+        "title": "For Honor: Marching Fire - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Xbox One",
+        "dev": "Ubisoft"
+    },
+    "252": {
+        "url": "https://www.shockgames.com.br/produto/it-takes-two-xbox.html",
+        "arquivo": "shockgames_0800",
+        "price": 254.89,
+        "title": "It Takes Two - Xbox - M\u00eddia F\u00edsica",
+        "genre": "Plataforma",
+        "plataforma": "Xbox",
+        "dev": "EA"
+    },
+    "253": {
+        "url": "https://www.shockgames.com.br/produto/back-4-blood-xbox.html",
+        "arquivo": "shockgames_0802",
+        "price": 294.89,
+        "title": "Back 4 Blood - Xbox - M\u00eddia F\u00edsica",
+        "genre": "Tiro",
+        "plataforma": "Xbox",
+        "dev": "WB Games"
+    },
+    "254": {
+        "url": "https://www.shockgames.com.br/dragon-ball-xenoverse-2-xbox-one",
+        "arquivo": "shockgames_0804",
+        "price": 149.89,
+        "title": "Dragon Ball Xenoverse 2 - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "Luta, RPG",
+        "plataforma": "Xbox One",
+        "dev": "Bandai Namco"
+    },
+    "255": {
+        "url": "https://www.shockgames.com.br/produto/lego-star-wars-the-skywalker-saga-xbox-one.html",
+        "arquivo": "shockgames_0806",
+        "price": 94.89,
+        "title": "Lego Star Wars: The Skywalker Saga - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "TT Games"
+    },
+    "256": {
+        "url": "https://www.shockgames.com.br/produto/outriders-xbox.html",
+        "arquivo": "shockgames_0808",
+        "price": 274.89,
+        "title": "Outriders - Xbox - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "Xbox",
+        "dev": "Square Enix"
+    },
+    "257": {
+        "url": "https://www.shockgames.com.br/rayman-legends-xbox-one-e-xbox-360",
+        "arquivo": "shockgames_0810",
+        "price": 84.89,
+        "title": "Rayman Legends - Xbox One e Xbox 360 - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "Xbox One e Xbox 360",
+        "dev": "Ubisoft"
+    },
+    "258": {
+        "url": "https://www.shockgames.com.br/kingdom-hearts-iii-xbox-one",
+        "arquivo": "shockgames_0812",
+        "price": 139.89,
+        "title": "Kingdom Hearts III - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, RPG",
+        "plataforma": "Xbox One",
+        "dev": "Square Enix"
+    },
+    "259": {
+        "url": "https://www.shockgames.com.br/produto/guitar-hero-live-usado-xbox-one.html",
+        "arquivo": "shockgames_0814",
+        "price": 914.89,
+        "title": "Guitar Hero Live (Usado) - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "Ubisoft"
+    },
+    "260": {
+        "url": "https://www.shockgames.com.br/dragon-ball-z-kakarot-xbox-one",
+        "arquivo": "shockgames_0816",
+        "price": 159.89,
+        "title": "Dragon Ball Z Kakarot - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "Luta, RPG",
+        "plataforma": "Xbox One",
+        "dev": "Bandai Namco"
+    },
+    "261": {
+        "url": "https://www.shockgames.com.br/control-xbox-one",
+        "arquivo": "shockgames_0818",
+        "price": 104.89,
+        "title": "Control - Xbox One - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "262": {
+        "url": "https://www.shockgames.com.br/balan-wonderworld-xbox",
+        "arquivo": "shockgames_0820",
+        "price": 264.89,
+        "title": "Balan Wonderworld - Xbox - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Plataforma",
+        "plataforma": "Xbox",
+        "dev": "Square Enix"
+    },
+    "263": {
+        "url": "https://www.shockgames.com.br/super-mario-3d-all-stars-switch",
+        "arquivo": "shockgames_0921",
+        "price": 504.89,
+        "title": "Super Mario 3D All-Stars - Switch - M\u00eddia F\u00edsica",
+        "genre": "Aventura",
+        "plataforma": "Stars",
+        "dev": "Nintendo"
+    },
+    "264": {
+        "url": "https://www.shockgames.com.br/sonic-forces-switch",
+        "arquivo": "shockgames_0925",
+        "price": 284.89,
+        "title": "Sonic Forces - Switch - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o , Aventura",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "265": {
+        "url": "https://www.shockgames.com.br/pokemon-shield-switch",
+        "arquivo": "shockgames_0933",
+        "price": 474.89,
+        "title": "Pok\u00e9mon Shield - Switch - M\u00eddia F\u00edsica",
+        "genre": "RPG, Aventura",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "266": {
+        "url": "https://www.shockgames.com.br/produto/kirby-and-the-forgotten-land-switch.html",
+        "arquivo": "shockgames_0935",
+        "price": 474.89,
+        "title": "Kirby and the Forgotten Land - Switch",
+        "genre": "None",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "267": {
+        "url": "https://www.shockgames.com.br/NSWJ-092",
+        "arquivo": "shockgames_0937",
+        "price": 484.89,
+        "title": "Super Smash Bros. Ultimate - Switch - M\u00eddia F\u00edsica",
+        "genre": "None",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "268": {
+        "url": "https://www.shockgames.com.br/diablo-iii-eternal-collection-switch",
+        "arquivo": "shockgames_0943",
+        "price": 444.89,
+        "title": "Diablo III Eternal Collection - Switch",
+        "genre": "A\u00e7\u00e3o, RPG",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "269": {
+        "url": "https://www.shockgames.com.br/produto/destroy-all-humans-switch.html",
+        "arquivo": "shockgames_0945",
+        "price": 504.89,
+        "title": "Destroy All Humans! - Switch",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "THQ Nordic"
+    },
+    "270": {
+        "url": "https://www.shockgames.com.br/produto/digimon-story-cyber-sleuth-complete-edition-switch.html",
+        "arquivo": "shockgames_0947",
+        "price": 159.89,
+        "title": "Digimon Story Cyber Sleuth: Complete Edition - Switch - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "271": {
+        "url": "https://www.shockgames.com.br/produto/fire-emblem-warriors-three-hopes-switch.html",
+        "arquivo": "shockgames_0949",
+        "price": 484.89,
+        "title": "Fire Emblem Warriors: Three Hopes - Switch",
+        "genre": "None",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "272": {
+        "url": "https://www.shockgames.com.br/produto/grand-theft-auto-the-trilogy-switch.html",
+        "arquivo": "shockgames_0951",
+        "price": 454.89,
+        "title": "Grand Theft Auto: The Trilogy - Switch - M\u00eddia F\u00edsica",
+        "genre": "Aventura, A\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "Rockstar Games"
+    },
+    "273": {
+        "url": "https://www.shockgames.com.br/produto/kingdoms-of-amalur-re-reckoning-switch.html",
+        "arquivo": "shockgames_0955",
+        "price": 284.89,
+        "title": "Kingdoms of Amalur: Re-reckoning - Switch - M\u00eddia F\u00edsica",
+        "genre": "RPG , A\u00e7\u00e3o, Aventura",
+        "plataforma": "reckoning",
+        "dev": "THQ Nordic"
+    },
+    "274": {
+        "url": "https://www.shockgames.com.br/produto/pikmin-3-deluxe-switch.html",
+        "arquivo": "shockgames_0959",
+        "price": 444.89,
+        "title": "Pikmin 3 Deluxe - Switch - M\u00eddia F\u00edsica",
+        "genre": "Aventura, A\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "275": {
+        "url": "https://www.shockgames.com.br/produto/shin-megami-tensei-v-switch.html",
+        "arquivo": "shockgames_0961",
+        "price": 444.89,
+        "title": "Shin Megami Tensei V - Switch - M\u00eddia F\u00edsica",
+        "genre": "RPG",
+        "plataforma": "Switch",
+        "dev": "Atlus"
+    },
+    "276": {
+        "url": "https://www.shockgames.com.br/super-mario-maker-2-switch",
+        "arquivo": "shockgames_0963",
+        "price": 474.89,
+        "title": "Super Mario Maker 2 - Switch - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Plataforma",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "277": {
+        "url": "https://www.shockgames.com.br/produto/metroid-dread-switch.html",
+        "arquivo": "shockgames_0965",
+        "price": 444.89,
+        "title": "Metroid Dread - Switch - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o, Aventura, Plataforma",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "278": {
+        "url": "https://www.shockgames.com.br/bloodstained-ritual-of-the-night-switch",
+        "arquivo": "shockgames_0967",
+        "price": 434.89,
+        "title": "Bloodstained: Ritual of the Night - Switch - M\u00eddia F\u00edsica",
+        "genre": "Plataforma , Aventura , A\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "None"
+    },
+    "279": {
+        "url": "https://www.shockgames.com.br/produto/lego-marvel-super-heroes-switch.html",
+        "arquivo": "shockgames_0970",
+        "price": 84.89,
+        "title": "Lego Marvel Super Heroes - Switch",
+        "genre": "A\u00e7\u00e3o , Aventura",
+        "plataforma": "Switch",
+        "dev": "WB Games"
+    },
+    "280": {
+        "url": "https://www.shockgames.com.br/produto/bayonetta-3-switch.html",
+        "arquivo": "shockgames_0972",
+        "price": 444.89,
+        "title": "Bayonetta 3 - Switch - Pr\u00e9-venda - M\u00eddia F\u00edsica",
+        "genre": "A\u00e7\u00e3o",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "281": {
+        "url": "https://www.shockgames.com.br/produto/mario-party-superstars-switch.html",
+        "arquivo": "shockgames_0980",
+        "price": 474.89,
+        "title": "Mario Party Superstars - Switch - M\u00eddia F\u00edsica",
+        "genre": "Party Game",
+        "plataforma": "Switch",
+        "dev": "Nintendo"
+    },
+    "282": {
+        "url": "https://www.shockgames.com.br/produto/case-slim-travel-dk-camo-edition-nintendo-switch.html",
+        "arquivo": "shockgames_0994",
+        "price": 254.89,
+        "title": "Case Slim Travel DK Camo Edition - Nintendo Switch",
+        "genre": "None",
+        "plataforma": "Nintendo Switch",
+        "dev": "HORI"
+    },
+    "283": {
+        "url": "https://www.shockgames.com.br/vault-case-hori-para-nintendo-switch-pikachu",
+        "arquivo": "shockgames_0996",
+        "price": 254.89,
+        "title": "Vault Case HORI para Nintendo Switch - Pikachu",
+        "genre": "None",
+        "plataforma": "Pikachu",
+        "dev": "HORI"
+    },
+    "284": {
+        "url": "https://www.shopb.com.br/jogo-the-last-of-us-part-i-ps5?utm_source=banner&utm_medium=display&utm_campaign=tlou-ps5",
+        "arquivo": "shopb_0719",
+        "price": "R$ 349,90",
+        "title": "Jogo The Last of Us: Part I - PS5",
+        "genre": "None",
+        "plataforma": "PlayStation 5",
+        "dev": " Naughty Dog"
+    },
+    "285": {
+        "url": "https://www.shopb.com.br/jogo-pac-man-world-re-pac-ps4?utm_source=banner&utm_campaign=pre-venda&utm_id=pac+man",
+        "arquivo": "shopb_0721",
+        "price": "R$ 269,90",
+        "title": "Jogo PAC-MAN: World Re-Pac - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Bandai Namco Entertainment"
+    },
+    "286": {
+        "url": "https://www.shopb.com.br/jogo-valkyrie-elysium-ps4",
+        "arquivo": "shopb_0747",
+        "price": "R$ 259,90",
+        "title": "Jogo Valkyrie Elysium - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Square Enix"
+    },
+    "287": {
+        "url": "https://www.shopb.com.br/jogo-the-diofield-chronicle-ps4",
+        "arquivo": "shopb_0749",
+        "price": "R$ 259,90",
+        "title": "Jogo The Diofield Chronicle - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Square Enix"
+    },
+    "288": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k23-ps4",
+        "arquivo": "shopb_0751",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K23 - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Visual Concepts"
+    },
+    "289": {
+        "url": "https://www.shopb.com.br/jogo-lego-brawls-ps4",
+        "arquivo": "shopb_0753",
+        "price": "R$ 269,90",
+        "title": "Jogo LEGO Brawls - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Red Games Co."
+    },
+    "290": {
+        "url": "https://www.shopb.com.br/jogo-fifa-23-ps4",
+        "arquivo": "shopb_0755",
+        "price": "R$ 279,90",
+        "title": "Jogo FIFA 23 - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " EA Canada"
+    },
+    "291": {
+        "url": "https://www.shopb.com.br/jogo-pac-man-world-re-pac-ps4",
+        "arquivo": "shopb_0757",
+        "price": "R$ 269,90",
+        "title": "Jogo PAC-MAN: World Re-Pac - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Bandai Namco Entertainment"
+    },
+    "292": {
+        "url": "https://www.shopb.com.br/jogo-digimon-survive-ps4",
+        "arquivo": "shopb_0759",
+        "price": "R$ 239,90",
+        "title": "Jogo Digimon Survive - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Hyde"
+    },
+    "293": {
+        "url": "https://www.shopb.com.br/jogo-the-quarry-ps4",
+        "arquivo": "shopb_0761",
+        "price": "R$ 229,90",
+        "title": "Jogo The Quarry - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Supermassive Games"
+    },
+    "294": {
+        "url": "https://www.shopb.com.br/jogo-f1-22-ps4",
+        "arquivo": "shopb_0763",
+        "price": "R$ 279,90",
+        "title": "Jogo F1 22 - PS4",
+        "genre": "None",
+        "plataforma": "PS4",
+        "dev": " Codemasters"
+    },
+    "295": {
+        "url": "https://www.shopb.com.br/jogo-dolmen-ps4",
+        "arquivo": "shopb_0765",
+        "price": "R$ 179,90",
+        "title": "Jogo Dolmen - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "\u00a0Massive Work Studio"
+    },
+    "296": {
+        "url": "https://www.shopb.com.br/jogo-pacman-museum-ps4",
+        "arquivo": "shopb_0767",
+        "price": "R$ 139,90",
+        "title": "Jogo Pac-Man Museum + - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "\u00a0Bandai Namco Entertainment"
+    },
+    "297": {
+        "url": "https://www.shopb.com.br/jogo-monster-energy-supercross-the-official-videogame-5-ps4",
+        "arquivo": "shopb_0769",
+        "price": "R$ 244,89",
+        "title": "Jogo Monster Energy Supercross - The Official Videogame 5 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Milestone"
+    },
+    "298": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k23-xbox-one",
+        "arquivo": "shopb_0771",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K23 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "299": {
+        "url": "https://www.shopb.com.br/jogo-fifa-23-xbox-one",
+        "arquivo": "shopb_0773",
+        "price": "R$ 279,90",
+        "title": "Jogo FIFA 23 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " EA Canada"
+    },
+    "300": {
+        "url": "https://www.shopb.com.br/jogo-f1-22-xbox-one",
+        "arquivo": "shopb_0775",
+        "price": "R$ 299,89",
+        "title": "Jogo F1 22 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Codemasters"
+    },
+    "301": {
+        "url": "https://www.shopb.com.br/jogo-lego-star-wars-a-saga-skywalker-xbox",
+        "arquivo": "shopb_0777",
+        "price": "R$ 269,89",
+        "title": "Jogo LEGO Star Wars: A Saga Skywalker - Xbox",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " TT Games"
+    },
+    "302": {
+        "url": "https://www.shopb.com.br/jogo-tiny-tinas-wonderlands-next-level-edition-xbox",
+        "arquivo": "shopb_0779",
+        "price": "R$ 289,89",
+        "title": "Jogo Tiny Tina\u2019s Wonderlands (Next-Level Edition) - Xbox",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Gearbox Software"
+    },
+    "303": {
+        "url": "https://www.shopb.com.br/jogo-tiny-tinas-wonderlands-xbox-one",
+        "arquivo": "shopb_0781",
+        "price": "R$ 249,89",
+        "title": "Jogo Tiny Tina\u2019s Wonderlands - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Gearbox Software"
+    },
+    "304": {
+        "url": "https://www.shopb.com.br/jogo-wwe-2k22-xbox-series-x",
+        "arquivo": "shopb_0783",
+        "price": "R$ 289,89",
+        "title": "Jogo WWE 2K22 - Xbox Series X",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Visual Concepts"
+    },
+    "305": {
+        "url": "https://www.shopb.com.br/jogo-the-king-of-fighters-xv-xbox-series-x",
+        "arquivo": "shopb_0785",
+        "price": "R$ 259,89",
+        "title": "Jogo The King of Fighters XV - Xbox Series X",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " SNK"
+    },
+    "306": {
+        "url": "https://www.shopb.com.br/jogo-stranger-of-paradise-final-fantasy-origin-xbox",
+        "arquivo": "shopb_0787",
+        "price": "R$ 249,89",
+        "title": "Jogo Stranger of Paradise: Final Fantasy Origin - Xbox",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Team Ninja"
+    },
+    "307": {
+        "url": "https://www.shopb.com.br/jogo-tom-clancys-rainbow-six-extraction-xbox",
+        "arquivo": "shopb_0789",
+        "price": "R$ 210,41",
+        "title": "Jogo Tom Clancy\u2019s Rainbow Six Extraction - Xbox",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Ubisoft Montreal"
+    },
+    "308": {
+        "url": "https://www.shopb.com.br/jogo-elden-ring-xbox",
+        "arquivo": "shopb_0791",
+        "price": "R$ 229,90",
+        "title": "Jogo Elden Ring - Xbox",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " FromSoftware"
+    },
+    "309": {
+        "url": "https://www.shopb.com.br/jogo-grand-theft-auto-the-trilogy-the-definitive-edition-xbox",
+        "arquivo": "shopb_0793",
+        "price": "R$ 214,89",
+        "title": "Jogo Grand Theft Auto: The Trilogy (The Definitive Edition) - Xbox",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Rockstar Games"
+    },
+    "310": {
+        "url": "https://www.shopb.com.br/jogo-world-war-z-aftermath-ps4",
+        "arquivo": "shopb_0812",
+        "price": "R$ 189,36",
+        "title": "Jogo World War Z: Aftermath - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Saber Interactive"
+    },
+    "311": {
+        "url": "https://www.shopb.com.br/jogo-world-war-z-aftermath-xbox",
+        "arquivo": "shopb_0814",
+        "price": "R$ 159,89",
+        "title": "Jogo World War Z: Aftermath - Xbox",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Saber Interactive"
+    },
+    "312": {
+        "url": "https://www.shopb.com.br/jogo-tiny-tinas-wonderlands-next-level-edition-ps5",
+        "arquivo": "shopb_0817",
+        "price": "R$ 289,89",
+        "title": "Jogo Tiny Tina\u2019s Wonderlands (Next-Level Edition) - PS5",
+        "genre": "None",
+        "plataforma": "PlayStation 5",
+        "dev": " Gearbox Software"
+    },
+    "313": {
+        "url": "https://www.shopb.com.br/jogo-wwe-2k22-ps5",
+        "arquivo": "shopb_0819",
+        "price": "R$ 279,89",
+        "title": "Jogo WWE 2K22 - PS5",
+        "genre": "None",
+        "plataforma": "PlayStation 5",
+        "dev": " Visual Concepts"
+    },
+    "314": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k22-ps4",
+        "arquivo": "shopb_0821",
+        "price": "R$ 199,90",
+        "title": "Jogo NBA 2K22 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "315": {
+        "url": "https://www.shopb.com.br/jogo-tiny-tinas-wonderlands-ps4",
+        "arquivo": "shopb_0823",
+        "price": "R$ 249,89",
+        "title": "Jogo Tiny Tina\u2019s Wonderlands - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Gearbox Software"
+    },
+    "316": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k22-xbox-series-x",
+        "arquivo": "shopb_0825",
+        "price": "R$ 199,90",
+        "title": "Jogo NBA 2K22 - Xbox Series X",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Visual Concepts"
+    },
+    "317": {
+        "url": "https://www.shopb.com.br/jogo-the-golf-club-2019-apresenta-pga-tour-ps4",
+        "arquivo": "shopb_0827",
+        "price": "R$ 39,89",
+        "title": "Jogo The Golf Club 2019 Apresenta PGA Tour - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " HB Studios"
+    },
+    "318": {
+        "url": "https://www.shopb.com.br/jogo-wwe-2k-battlegrounds-xbox-one",
+        "arquivo": "shopb_0829",
+        "price": "R$ 94,62",
+        "title": "Jogo WWE 2K Battlegrounds - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Saber Interactive"
+    },
+    "319": {
+        "url": "https://www.shopb.com.br/jogo-wwe-2k-battlegrounds-ps4",
+        "arquivo": "shopb_0831",
+        "price": "R$ 69,89",
+        "title": "Jogo WWE 2K Battlegrounds - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Saber Interactive"
+    },
+    "320": {
+        "url": "https://www.shopb.com.br/jogo-borderlands-legendary-collection-switch",
+        "arquivo": "shopb_0833",
+        "price": "R$ 442,00",
+        "title": "Jogo Borderlands Legendary Collection - Switch",
+        "genre": "None",
+        "plataforma": "Nintendo Switch",
+        "dev": " Gearbox Software"
+    },
+    "321": {
+        "url": "https://www.shopb.com.br/jogo-sid-meiers-civilization-vi-switch",
+        "arquivo": "shopb_0835",
+        "price": "R$ 210,41",
+        "title": "Jogo Sid Meier's Civilization VI - Switch",
+        "genre": "None",
+        "plataforma": "Nintendo Switch",
+        "dev": " Firaxis Games"
+    },
+    "322": {
+        "url": "https://www.shopb.com.br/jogo-mafia-definitive-edition-ps4",
+        "arquivo": "shopb_0837",
+        "price": "R$ 89,89",
+        "title": "Jogo Mafia: Definitive Edition - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Hangar 13"
+    },
+    "323": {
+        "url": "https://www.shopb.com.br/espera/produto/61039798/assinar/",
+        "arquivo": "shopb_0838",
+        "price": "R$ 89,89",
+        "title": "Jogo Mafia: Definitive Edition - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Hangar 13"
+    },
+    "324": {
+        "url": "https://www.shopb.com.br/jogo-mafia-definitive-edition-xbox-one",
+        "arquivo": "shopb_0839",
+        "price": "R$ 89,89",
+        "title": "Jogo Mafia: Definitive Edition - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Hangar 13"
+    },
+    "325": {
+        "url": "https://www.shopb.com.br/espera/produto/61040765/assinar/",
+        "arquivo": "shopb_0840",
+        "price": "R$ 89,89",
+        "title": "Jogo Mafia: Definitive Edition - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Hangar 13"
+    },
+    "326": {
+        "url": "https://www.shopb.com.br/jogo-wwe-2k22-xbox-one",
+        "arquivo": "shopb_0841",
+        "price": "R$ 289,89",
+        "title": "Jogo WWE 2K22 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "327": {
+        "url": "https://www.shopb.com.br/espera/produto/142530833/assinar/",
+        "arquivo": "shopb_0842",
+        "price": "R$ 289,89",
+        "title": "Jogo WWE 2K22 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "328": {
+        "url": "https://www.shopb.com.br/jogo-mafia-ii-ps3-2",
+        "arquivo": "shopb_0843",
+        "price": "R$ 49,89",
+        "title": "Jogo Mafia II - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " 2K Czech"
+    },
+    "329": {
+        "url": "https://www.shopb.com.br/espera/produto/96895109/assinar/",
+        "arquivo": "shopb_0844",
+        "price": "R$ 49,89",
+        "title": "Jogo Mafia II - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " 2K Czech"
+    },
+    "330": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k22-ps5",
+        "arquivo": "shopb_0845",
+        "price": "R$ 199,90",
+        "title": "Jogo NBA 2K22 - PS5",
+        "genre": "None",
+        "plataforma": "PlayStation 5",
+        "dev": " Visual Concepts"
+    },
+    "331": {
+        "url": "https://www.shopb.com.br/espera/produto/117279441/assinar/",
+        "arquivo": "shopb_0846",
+        "price": "R$ 199,90",
+        "title": "Jogo NBA 2K22 - PS5",
+        "genre": "None",
+        "plataforma": "PlayStation 5",
+        "dev": " Visual Concepts"
+    },
+    "332": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k22-xbox-one",
+        "arquivo": "shopb_0847",
+        "price": "R$ 199,90",
+        "title": "Jogo NBA 2K22 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "333": {
+        "url": "https://www.shopb.com.br/espera/produto/117280051/assinar/",
+        "arquivo": "shopb_0848",
+        "price": "R$ 199,90",
+        "title": "Jogo NBA 2K22 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "334": {
+        "url": "https://www.shopb.com.br/mafia-iii-collectors-edition-xbox-one",
+        "arquivo": "shopb_0849",
+        "price": "R$ 3.420,94",
+        "title": "Jogo Mafia III (Collector's Edition) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "335": {
+        "url": "https://www.shopb.com.br/espera/produto/13413920/assinar/",
+        "arquivo": "shopb_0850",
+        "price": "R$ 3.420,94",
+        "title": "Jogo Mafia III (Collector's Edition) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "336": {
+        "url": "https://www.shopb.com.br/jogo-mafia-iii-ps4-9442900",
+        "arquivo": "shopb_0851",
+        "price": "R$ 189,36",
+        "title": "Jogo Mafia III - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "337": {
+        "url": "https://www.shopb.com.br/espera/produto/9442900/assinar/",
+        "arquivo": "shopb_0852",
+        "price": "R$ 189,36",
+        "title": "Jogo Mafia III - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "338": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k17-xbox-one-2",
+        "arquivo": "shopb_0853",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K17 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "339": {
+        "url": "https://www.shopb.com.br/espera/produto/96917979/assinar/",
+        "arquivo": "shopb_0854",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K17 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "340": {
+        "url": "https://www.shopb.com.br/jogo-the-darkness-ii-xbox-360",
+        "arquivo": "shopb_0855",
+        "price": "R$ 199,89",
+        "title": "Jogo The Darkness II - Xbox 360",
+        "genre": "None",
+        "plataforma": "Xbox 360",
+        "dev": "None"
+    },
+    "341": {
+        "url": "https://www.shopb.com.br/espera/produto/7315280/assinar/",
+        "arquivo": "shopb_0856",
+        "price": "R$ 199,89",
+        "title": "Jogo The Darkness II - Xbox 360",
+        "genre": "None",
+        "plataforma": "Xbox 360",
+        "dev": "None"
+    },
+    "342": {
+        "url": "https://www.shopb.com.br/jogo-mafia-iii-xbox-one-9442901",
+        "arquivo": "shopb_0857",
+        "price": "R$ 74,89",
+        "title": "Jogo Mafia III - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "343": {
+        "url": "https://www.shopb.com.br/espera/produto/9442901/assinar/",
+        "arquivo": "shopb_0858",
+        "price": "R$ 74,89",
+        "title": "Jogo Mafia III - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "344": {
+        "url": "https://www.shopb.com.br/jogo-xcom-enemy-within-commander-edition-ps3",
+        "arquivo": "shopb_0859",
+        "price": "R$ 37,89",
+        "title": "Jogo XCOM: Enemy Within (Commander Edition) - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "None"
+    },
+    "345": {
+        "url": "https://www.shopb.com.br/espera/produto/8604511/assinar/",
+        "arquivo": "shopb_0860",
+        "price": "R$ 37,89",
+        "title": "Jogo XCOM: Enemy Within (Commander Edition) - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "None"
+    },
+    "346": {
+        "url": "https://www.shopb.com.br/jogo-wwe-2k22-ps4",
+        "arquivo": "shopb_0861",
+        "price": "R$ 279,89",
+        "title": "Jogo WWE 2K22 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "347": {
+        "url": "https://www.shopb.com.br/espera/produto/141121688/assinar/",
+        "arquivo": "shopb_0862",
+        "price": "R$ 279,89",
+        "title": "Jogo WWE 2K22 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "348": {
+        "url": "https://www.shopb.com.br/jogo-evolve-ps4-7314754",
+        "arquivo": "shopb_0863",
+        "price": "R$ 239,90",
+        "title": "Jogo Evolve - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "349": {
+        "url": "https://www.shopb.com.br/espera/produto/7314754/assinar/",
+        "arquivo": "shopb_0864",
+        "price": "R$ 239,90",
+        "title": "Jogo Evolve - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "350": {
+        "url": "https://www.shopb.com.br/jogo-the-quarry-ps5",
+        "arquivo": "shopb_0865",
+        "price": "R$ 229,90",
+        "title": "Jogo The Quarry - PS5",
+        "genre": "None",
+        "plataforma": "PS5",
+        "dev": " Supermassive Games"
+    },
+    "351": {
+        "url": "https://www.shopb.com.br/espera/produto/156805654/assinar/",
+        "arquivo": "shopb_0866",
+        "price": "R$ 229,90",
+        "title": "Jogo The Quarry - PS5",
+        "genre": "None",
+        "plataforma": "PS5",
+        "dev": " Supermassive Games"
+    },
+    "352": {
+        "url": "https://www.shopb.com.br/jogo-evolve-xbox-one-7314541",
+        "arquivo": "shopb_0867",
+        "price": "R$ 69,89",
+        "title": "Jogo Evolve - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "353": {
+        "url": "https://www.shopb.com.br/espera/produto/7314541/assinar/",
+        "arquivo": "shopb_0868",
+        "price": "R$ 69,89",
+        "title": "Jogo Evolve - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "354": {
+        "url": "https://www.shopb.com.br/jogo-spec-ops-the-line-xbox-360-7315265",
+        "arquivo": "shopb_0869",
+        "price": "R$ 199,89",
+        "title": "Jogo Spec Ops: The Line - Xbox 360",
+        "genre": "None",
+        "plataforma": "Xbox 360",
+        "dev": "None"
+    },
+    "355": {
+        "url": "https://www.shopb.com.br/espera/produto/7315265/assinar/",
+        "arquivo": "shopb_0870",
+        "price": "R$ 199,89",
+        "title": "Jogo Spec Ops: The Line - Xbox 360",
+        "genre": "None",
+        "plataforma": "Xbox 360",
+        "dev": "None"
+    },
+    "356": {
+        "url": "https://www.shopb.com.br/jogo-the-quarry-xbox-one",
+        "arquivo": "shopb_0871",
+        "price": "R$ 229,90",
+        "title": "Jogo The Quarry - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Supermassive Games"
+    },
+    "357": {
+        "url": "https://www.shopb.com.br/espera/produto/156805491/assinar/",
+        "arquivo": "shopb_0872",
+        "price": "R$ 229,90",
+        "title": "Jogo The Quarry - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Supermassive Games"
+    },
+    "358": {
+        "url": "https://www.shopb.com.br/jogo-the-quarry-xbox-series-x",
+        "arquivo": "shopb_0873",
+        "price": "R$ 229,90",
+        "title": "Jogo The Quarry - Xbox Series X",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Supermassive Games"
+    },
+    "359": {
+        "url": "https://www.shopb.com.br/espera/produto/156805798/assinar/",
+        "arquivo": "shopb_0874",
+        "price": "R$ 229,90",
+        "title": "Jogo The Quarry - Xbox Series X",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Supermassive Games"
+    },
+    "360": {
+        "url": "https://www.shopb.com.br/jogo-borderlands-the-pre-sequel-ps3-2017-05-16-15-10-33",
+        "arquivo": "shopb_0875",
+        "price": "R$ 89,36",
+        "title": "Jogo Borderlands: The Pre-Sequel - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "\u00a02K"
+    },
+    "361": {
+        "url": "https://www.shopb.com.br/espera/produto/17910972/assinar/",
+        "arquivo": "shopb_0876",
+        "price": "R$ 89,36",
+        "title": "Jogo Borderlands: The Pre-Sequel - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "\u00a02K"
+    },
+    "362": {
+        "url": "https://www.shopb.com.br/jogo-borderlands-2-ps3-7",
+        "arquivo": "shopb_0877",
+        "price": "R$ 89,36",
+        "title": "Jogo Borderlands 2 - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Gearbox Software"
+    },
+    "363": {
+        "url": "https://www.shopb.com.br/espera/produto/7314669/assinar/",
+        "arquivo": "shopb_0878",
+        "price": "R$ 89,36",
+        "title": "Jogo Borderlands 2 - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Gearbox Software"
+    },
+    "364": {
+        "url": "https://www.shopb.com.br/jogo-the-darkness-ii-limited-edition-ps3-7",
+        "arquivo": "shopb_0879",
+        "price": "R$ 199,90",
+        "title": "Jogo The Darkness II (Limited Edition) - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "\u00a0Digital Extremes"
+    },
+    "365": {
+        "url": "https://www.shopb.com.br/espera/produto/7315199/assinar/",
+        "arquivo": "shopb_0880",
+        "price": "R$ 199,90",
+        "title": "Jogo The Darkness II (Limited Edition) - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "\u00a0Digital Extremes"
+    },
+    "366": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k23-ps5",
+        "arquivo": "shopb_0882",
+        "price": "R$ 329,90",
+        "title": "Jogo NBA 2K23 - PS5",
+        "genre": "None",
+        "plataforma": "PS5",
+        "dev": " Visual Concepts"
+    },
+    "367": {
+        "url": "https://www.shopb.com.br/jogo-pga-tour-2k21-ps4",
+        "arquivo": "shopb_0884",
+        "price": "R$ 59,89",
+        "title": "Jogo PGA Tour 2K21 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " 2K Games"
+    },
+    "368": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k21-xbox-series-x",
+        "arquivo": "shopb_0886",
+        "price": "R$ 229,89",
+        "title": "Jogo NBA 2K21 - Xbox Series X",
+        "genre": "None",
+        "plataforma": "Xbox Series X",
+        "dev": " Visual Concepts"
+    },
+    "369": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k21-ps5",
+        "arquivo": "shopb_0888",
+        "price": "R$ 229,89",
+        "title": "Jogo NBA 2K21 - PS5",
+        "genre": "None",
+        "plataforma": "PlayStation 5",
+        "dev": " Visual Concepts"
+    },
+    "370": {
+        "url": "https://www.shopb.com.br/espera/produto/84452665/assinar/",
+        "arquivo": "shopb_0889",
+        "price": "R$ 229,89",
+        "title": "Jogo NBA 2K21 - PS5",
+        "genre": "None",
+        "plataforma": "PlayStation 5",
+        "dev": " Visual Concepts"
+    },
+    "371": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k21-ps4",
+        "arquivo": "shopb_0890",
+        "price": "R$ 229,89",
+        "title": "Jogo NBA 2K21 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "372": {
+        "url": "https://www.shopb.com.br/espera/produto/60509133/assinar/",
+        "arquivo": "shopb_0891",
+        "price": "R$ 229,89",
+        "title": "Jogo NBA 2K21 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "373": {
+        "url": "https://www.shopb.com.br/jogo-wwe-2k20-ps4",
+        "arquivo": "shopb_0892",
+        "price": "R$ 69,89",
+        "title": "Jogo WWE 2K20 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "374": {
+        "url": "https://www.shopb.com.br/espera/produto/41882560/assinar/",
+        "arquivo": "shopb_0893",
+        "price": "R$ 69,89",
+        "title": "Jogo WWE 2K20 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "375": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k16-ps4-2",
+        "arquivo": "shopb_0894",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K16 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "376": {
+        "url": "https://www.shopb.com.br/espera/produto/96921270/assinar/",
+        "arquivo": "shopb_0895",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K16 - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Visual Concepts"
+    },
+    "377": {
+        "url": "https://www.shopb.com.br/jogo-mlb-2k13-ps3",
+        "arquivo": "shopb_0896",
+        "price": "R$ 49,89",
+        "title": "Jogo MLB 2K13 - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "\u00a02K Games"
+    },
+    "378": {
+        "url": "https://www.shopb.com.br/espera/produto/7314327/assinar/",
+        "arquivo": "shopb_0897",
+        "price": "R$ 49,89",
+        "title": "Jogo MLB 2K13 - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": "\u00a02K Games"
+    },
+    "379": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k14-xbox-one-7314511",
+        "arquivo": "shopb_0898",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K14 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "380": {
+        "url": "https://www.shopb.com.br/espera/produto/7314511/assinar/",
+        "arquivo": "shopb_0899",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K14 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "381": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k19-xbox-one",
+        "arquivo": "shopb_0900",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K19 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "382": {
+        "url": "https://www.shopb.com.br/espera/produto/29857502/assinar/",
+        "arquivo": "shopb_0901",
+        "price": "R$ 269,90",
+        "title": "Jogo NBA 2K19 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "383": {
+        "url": "https://www.shopb.com.br/jogo-nba-2k21-xbox-one",
+        "arquivo": "shopb_0902",
+        "price": "R$ 229,89",
+        "title": "Jogo NBA 2K21 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "384": {
+        "url": "https://www.shopb.com.br/espera/produto/60511446/assinar/",
+        "arquivo": "shopb_0903",
+        "price": "R$ 229,89",
+        "title": "Jogo NBA 2K21 - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Visual Concepts"
+    },
+    "385": {
+        "url": "https://www.shopb.com.br/jogo-journey-to-the-savage-planet-ps4",
+        "arquivo": "shopb_0905",
+        "price": "R$ 74,90",
+        "title": "Jogo Journey to the Savage Planet - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " 505 Games"
+    },
+    "386": {
+        "url": "https://www.shopb.com.br/jogo-terraria-xbox-one-7314911",
+        "arquivo": "shopb_0907",
+        "price": "R$ 89,89",
+        "title": "Jogo Terraria - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "387": {
+        "url": "https://www.shopb.com.br/jogo-payday-2-safecracker-edition-xbox-360",
+        "arquivo": "shopb_0909",
+        "price": "R$ 134,89",
+        "title": "Jogo Payday 2 (SafeCracker Edition) - Xbox 360",
+        "genre": "None",
+        "plataforma": "Xbox 360",
+        "dev": "\u00a0Overkill Software"
+    },
+    "388": {
+        "url": "https://www.shopb.com.br/jogo-control-xbox-one",
+        "arquivo": "shopb_0911",
+        "price": "R$ 178,83",
+        "title": "Jogo Control - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Remedy Entertainment"
+    },
+    "389": {
+        "url": "https://www.shopb.com.br/jogo-hellblade-senuas-sacrifice-xbox-one",
+        "arquivo": "shopb_0913",
+        "price": "R$ 59,89",
+        "title": "Jogo Hellblade: Senua's Sacrifice - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Ninja Theory"
+    },
+    "390": {
+        "url": "https://www.shopb.com.br/jogo-pillars-of-eternity-complete-edition-xbox-one-nacional",
+        "arquivo": "shopb_0915",
+        "price": "R$ 59,89",
+        "title": "Jogo Pillars of Eternity (Complete Edition) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "391": {
+        "url": "https://www.shopb.com.br/jogo-assetto-corsa-competizione-ps4",
+        "arquivo": "shopb_0917",
+        "price": "R$ 149,89",
+        "title": "Jogo Assetto Corsa Competizione - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Kunos Simulazioni"
+    },
+    "392": {
+        "url": "https://www.shopb.com.br/jogo-portal-knights-edicao-do-trono-dourado-xbox-one",
+        "arquivo": "shopb_0919",
+        "price": "R$ 79,89",
+        "title": "Jogo Portal Knights (Edi\u00e7\u00e3o do Trono Dourado) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Keen Games"
+    },
+    "393": {
+        "url": "https://www.shopb.com.br/jogo-sniper-elite-iii-ultimate-edition-xbox-one-7314917",
+        "arquivo": "shopb_0921",
+        "price": "R$ 229,89",
+        "title": "Jogo Sniper Elite III (Ultimate Edition) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "394": {
+        "url": "https://www.shopb.com.br/espera/produto/7314917/assinar/",
+        "arquivo": "shopb_0922",
+        "price": "R$ 229,89",
+        "title": "Jogo Sniper Elite III (Ultimate Edition) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "395": {
+        "url": "https://www.shopb.com.br/jogo-redout-lightspeed-edition-ps4",
+        "arquivo": "shopb_0923",
+        "price": "R$ 178,83",
+        "title": "Jogo Redout (Lightspeed Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "396": {
+        "url": "https://www.shopb.com.br/espera/produto/25156844/assinar/",
+        "arquivo": "shopb_0924",
+        "price": "R$ 178,83",
+        "title": "Jogo Redout (Lightspeed Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "397": {
+        "url": "https://www.shopb.com.br/jogo-sniper-elite-v2-ps3",
+        "arquivo": "shopb_0925",
+        "price": "R$ 49,89",
+        "title": "Jogo Sniper Elite V2 - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Rebellion Developments"
+    },
+    "398": {
+        "url": "https://www.shopb.com.br/espera/produto/31243147/assinar/",
+        "arquivo": "shopb_0926",
+        "price": "R$ 49,89",
+        "title": "Jogo Sniper Elite V2 - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Rebellion Developments"
+    },
+    "399": {
+        "url": "https://www.shopb.com.br/jogo-payday-2-safecracker-edition-ps3",
+        "arquivo": "shopb_0927",
+        "price": "R$ 134,89",
+        "title": "Jogo Payday 2 (Safecracker Edition) - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Overkill Software"
+    },
+    "400": {
+        "url": "https://www.shopb.com.br/espera/produto/29857598/assinar/",
+        "arquivo": "shopb_0928",
+        "price": "R$ 134,89",
+        "title": "Jogo Payday 2 (Safecracker Edition) - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Overkill Software"
+    },
+    "401": {
+        "url": "https://www.shopb.com.br/jogo-raid-world-war-ii-xbox-one",
+        "arquivo": "shopb_0929",
+        "price": "R$ 89,89",
+        "title": "Jogo Raid: World War II - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Lion Game Lion"
+    },
+    "402": {
+        "url": "https://www.shopb.com.br/espera/produto/35699374/assinar/",
+        "arquivo": "shopb_0930",
+        "price": "R$ 89,89",
+        "title": "Jogo Raid: World War II - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": " Lion Game Lion"
+    },
+    "403": {
+        "url": "https://www.shopb.com.br/jogo-portal-knights-gold-throne-edition-ps4",
+        "arquivo": "shopb_0931",
+        "price": "R$ 79,89",
+        "title": "Jogo Portal Knights (Gold Throne Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "404": {
+        "url": "https://www.shopb.com.br/espera/produto/19035739/assinar/",
+        "arquivo": "shopb_0932",
+        "price": "R$ 79,89",
+        "title": "Jogo Portal Knights (Gold Throne Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "405": {
+        "url": "https://www.shopb.com.br/jogo-payday-2-the-big-score-ps4-2",
+        "arquivo": "shopb_0933",
+        "price": "R$ 134,89",
+        "title": "Jogo Payday 2: The Big Score - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Overkill Software"
+    },
+    "406": {
+        "url": "https://www.shopb.com.br/espera/produto/92486528/assinar/",
+        "arquivo": "shopb_0934",
+        "price": "R$ 134,89",
+        "title": "Jogo Payday 2: The Big Score - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Overkill Software"
+    },
+    "407": {
+        "url": "https://www.shopb.com.br/jogo-supremacy-mma-ps3-7",
+        "arquivo": "shopb_0935",
+        "price": "R$ 49,89",
+        "title": "Jogo Supremacy MMA - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " \u00a0Kung Fu Factory"
+    },
+    "408": {
+        "url": "https://www.shopb.com.br/espera/produto/7315484/assinar/",
+        "arquivo": "shopb_0936",
+        "price": "R$ 49,89",
+        "title": "Jogo Supremacy MMA - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " \u00a0Kung Fu Factory"
+    },
+    "409": {
+        "url": "https://www.shopb.com.br/jogo-adidas-micoach-ps3",
+        "arquivo": "shopb_0937",
+        "price": "R$ 49,89",
+        "title": "Jogo Adidas miCoach - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Lightning Fish Games"
+    },
+    "410": {
+        "url": "https://www.shopb.com.br/espera/produto/7314700/assinar/",
+        "arquivo": "shopb_0938",
+        "price": "R$ 49,89",
+        "title": "Jogo Adidas miCoach - PS3",
+        "genre": "None",
+        "plataforma": "PlayStation 3",
+        "dev": " Lightning Fish Games"
+    },
+    "411": {
+        "url": "https://www.shopb.com.br/jogo-bloodstained-ritual-of-the-night-switch",
+        "arquivo": "shopb_0939",
+        "price": "R$ 357,78",
+        "title": "Jogo Bloodstained: Ritual of the Night - Switch",
+        "genre": "None",
+        "plataforma": "Nintendo Switch",
+        "dev": " ArtPlay"
+    },
+    "412": {
+        "url": "https://www.shopb.com.br/espera/produto/43605487/assinar/",
+        "arquivo": "shopb_0940",
+        "price": "R$ 357,78",
+        "title": "Jogo Bloodstained: Ritual of the Night - Switch",
+        "genre": "None",
+        "plataforma": "Nintendo Switch",
+        "dev": " ArtPlay"
+    },
+    "413": {
+        "url": "https://www.shopb.com.br/jogo-assetto-corsa-ps4-2",
+        "arquivo": "shopb_0941",
+        "price": "R$ 149,89",
+        "title": "Jogo Assetto Corsa - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Kunos Simulazioni"
+    },
+    "414": {
+        "url": "https://www.shopb.com.br/espera/produto/92938526/assinar/",
+        "arquivo": "shopb_0942",
+        "price": "R$ 149,89",
+        "title": "Jogo Assetto Corsa - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Kunos Simulazioni"
+    },
+    "415": {
+        "url": "https://www.shopb.com.br/jogo-raid-world-war-ii-ps4-nacional",
+        "arquivo": "shopb_0943",
+        "price": "R$ 129,89",
+        "title": "Jogo Raid: World War II - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Lion Game Lion"
+    },
+    "416": {
+        "url": "https://www.shopb.com.br/espera/produto/30149659/assinar/",
+        "arquivo": "shopb_0944",
+        "price": "R$ 129,89",
+        "title": "Jogo Raid: World War II - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Lion Game Lion"
+    },
+    "417": {
+        "url": "https://www.shopb.com.br/jogo-assetto-corsa-xbox-one-nacional",
+        "arquivo": "shopb_0945",
+        "price": "R$ 149,89",
+        "title": "Jogo Assetto Corsa - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "418": {
+        "url": "https://www.shopb.com.br/espera/produto/15261874/assinar/",
+        "arquivo": "shopb_0946",
+        "price": "R$ 149,89",
+        "title": "Jogo Assetto Corsa - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "419": {
+        "url": "https://www.shopb.com.br/jogo-dead-by-daylight-edicao-especial-xbox-one",
+        "arquivo": "shopb_0947",
+        "price": "R$ 154,89",
+        "title": "Jogo Dead By Daylight (Edi\u00e7\u00e3o Especial) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "420": {
+        "url": "https://www.shopb.com.br/espera/produto/25147365/assinar/",
+        "arquivo": "shopb_0948",
+        "price": "R$ 154,89",
+        "title": "Jogo Dead By Daylight (Edi\u00e7\u00e3o Especial) - Xbox One",
+        "genre": "None",
+        "plataforma": "Xbox One",
+        "dev": "None"
+    },
+    "421": {
+        "url": "https://www.shopb.com.br/jogo-assetto-corsa-ps4-nacional",
+        "arquivo": "shopb_0949",
+        "price": "R$ 149,89",
+        "title": "Jogo Assetto Corsa - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "422": {
+        "url": "https://www.shopb.com.br/espera/produto/15261075/assinar/",
+        "arquivo": "shopb_0950",
+        "price": "R$ 149,89",
+        "title": "Jogo Assetto Corsa - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "423": {
+        "url": "https://www.shopb.com.br/jogo-payday-2-crimewave-edition-ps4-nacional",
+        "arquivo": "shopb_0951",
+        "price": "R$ 134,89",
+        "title": "Jogo PayDay 2 (Crimewave Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "424": {
+        "url": "https://www.shopb.com.br/espera/produto/25148290/assinar/",
+        "arquivo": "shopb_0952",
+        "price": "R$ 134,89",
+        "title": "Jogo PayDay 2 (Crimewave Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "425": {
+        "url": "https://www.shopb.com.br/jogo-control-ps4",
+        "arquivo": "shopb_0953",
+        "price": "R$ 279,90",
+        "title": "Jogo Control - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Remedy Entertainment"
+    },
+    "426": {
+        "url": "https://www.shopb.com.br/espera/produto/40395474/assinar/",
+        "arquivo": "shopb_0954",
+        "price": "R$ 279,90",
+        "title": "Jogo Control - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": " Remedy Entertainment"
+    },
+    "427": {
+        "url": "https://www.shopb.com.br/jogo-pillars-of-eternity-complete-edition-ps4-nacional",
+        "arquivo": "shopb_0955",
+        "price": "R$ 59,89",
+        "title": "Jogo Pillars of Eternity (Complete Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "428": {
+        "url": "https://www.shopb.com.br/espera/produto/25150554/assinar/",
+        "arquivo": "shopb_0956",
+        "price": "R$ 59,89",
+        "title": "Jogo Pillars of Eternity (Complete Edition) - PS4",
+        "genre": "None",
+        "plataforma": "PlayStation 4",
+        "dev": "None"
+    },
+    "429": {
+        "url": "https://www.shopb.com.br/jogo-bubsy-paws-on-fire-limited-edition-switch",
+        "arquivo": "shopb_1005",
+        "price": "R$ 305,16",
+        "title": "Jogo Bubsy: Paws on Fire!  (Limited Edition) - Switch",
+        "genre": "None",
+        "plataforma": "Nintendo Switch",
+        "dev": " Choice Provisions"
+    },
+    "430": {
+        "url": "https://www.shopb.com.br/espera/produto/59039141/assinar/",
+        "arquivo": "shopb_1006",
+        "price": "R$ 305,16",
+        "title": "Jogo Bubsy: Paws on Fire!  (Limited Edition) - Switch",
+        "genre": "None",
+        "plataforma": "Nintendo Switch",
+        "dev": " Choice Provisions"
+    }
+}

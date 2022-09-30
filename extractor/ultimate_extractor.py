@@ -2,17 +2,17 @@ from ast import If
 import json
 import requests
 from bs4 import BeautifulSoup
-from  specifics.bigboygames import bigboyextractor
-from  specifics.vnsgames import vnsextractor
+from .specifics.bigboygames import bigboyextractor
+from .specifics.vnsgames import vnsextractor
+from .specifics.futuristicGames import futuristicextractor
+from .specifics.lojaarenagames import arenaextractor
+from .specifics.shockgames import shockextractor
+from .specifics.ibyte import ibyteextractor
+from .specifics.shopb import shopbextractor
+from .generic import generic
 
-from  specifics.futuristicGames import futuristicextractor
-from  specifics.lojaarenagames import arenaextractor
-from  specifics.shockgames import shockextractor
-from  specifics.ibyte import ibyteextractor
-from  specifics.shopb import shopbextractor
-from  generic import generic
 
-def extractor(url,html):
+def extractor(url, html):
     soup = BeautifulSoup(html, 'html.parser')
     if "bigboy" in url:
         return bigboyextractor(soup)
