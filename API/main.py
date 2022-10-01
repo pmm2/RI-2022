@@ -15,6 +15,7 @@ app.add_middleware(
 class Consulta(BaseModel):
     simple: Optional[str] = None
     title: Optional[str] = None
+    price: Optional[int] = None
     genre: Optional[str] = None
     plataforma: Optional[str] = None
     dev: Optional[str] = None
