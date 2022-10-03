@@ -79,7 +79,9 @@ def extract_data(link_list_path_file: str, htmls_path_directory: str) -> None:
                     id += 1
                 except:
                     errors_links.append(i[1])
-
+                    os.remove(f'{htmls_path_directory}/{i[0]}.html')
+            else:
+                os.remove(f'{htmls_path_directory}/{i[0]}.html')
     obj = json.dumps(data, indent=4)
     with open('./data/data_map.json', 'w') as outfile:
         outfile.write(obj)
