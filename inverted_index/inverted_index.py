@@ -1,7 +1,8 @@
 from asyncore import read
-from re import sub
+from re import L, sub
 import re
 import pprint
+import numpy
 pp = pprint.PrettyPrinter(indent=4)
 
 
@@ -11,7 +12,14 @@ def clean(doc):
     return doc
 
 
+def pick_quartis(price_list):
+    q1 = numpy.quantile(price_list, q=0.25)
+    q2 = numpy.quantile(price_list, q=0.5)
+    q3 = numpy.quantile(price_list, q=0.75)
+
+
 # print(clean("I-like-bananas - "))
+
 
 class invertedIndex:
 
