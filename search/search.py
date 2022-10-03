@@ -100,13 +100,14 @@ def cosine_Score(terms, tfidf, invlist, num_docs, doc_lengths, n):
     return scores[:n]
 
 
-def clear(query, field=None, usestopwords=False):
+def clear_query_input(query, field=None, usestopwords=False):
 
     if type(query) == str:
         substr = re.findall(r'"(.*?)"', query)
         words = re.sub(r'"(.*?)"', '', query)
-        words = words.strip().split(' ')
+        words = words.lower().strip().split(' ')
         words = words + substr
+
     toRemove = r'[.*,;\(\)\'\"\?\!%\$]'
 
     for i in range(len(words)):
@@ -125,7 +126,7 @@ def clear(query, field=None, usestopwords=False):
         return list(set(newWords))
     if (field):
         for i in range(len(words)):
-            words[i] = words[i] + '.' + field
+            words[i] = words[i] + '-' + field
     return list(set(words))
 
 
@@ -143,6 +144,6 @@ def get_invindex(path='./inverted_index/invIndex.json'):
 
 
 def run_query(query, tfidf, num_docs, docs_lenght, n, field=None, invlist_path='./inverted_index/invIndex.json'):
-    terms = clear(query, field)
+    terms = clear_query_input(query, field)
     invindex = get_invindex(invlist_path)
     return cosine_Score(terms, tfidf, invindex, num_docs, docs_lenght, n)
