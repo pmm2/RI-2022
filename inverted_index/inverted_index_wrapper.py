@@ -38,19 +38,18 @@ def get_prices_lists(data):
     prices = sorted(prices)
     return prices
 
-f = open('./data/data_map.json')
-data = json.load(f)
-documentos = []
-quatis = pick_quartis(get_prices_lists(data))
-
 def tag(s, tag):
     cleaned = [f"{clean(i)}" for i in s if i != 'None']
     tagged = [f"{i}-{tag}" for i in cleaned if len(i) > 0]
     return tagged
 
 def create_field_invindex():
+    f = open('./data/data_map.json')
+    data = json.load(f)
+    documentos = []
+    quatis = pick_quartis(get_prices_lists(data))
+
     for i in data:
-        doc = []
         titleList = tag(data[i]['title'].split(), 'title')
         genreList = tag(data[i]['genre'].split(), 'genre')
         plataformaList = tag(data[i]['plataforma'].split(), 'plataforma')
@@ -72,8 +71,12 @@ def create_field_invindex():
         outfile.write(inv_list)
 
 def create_general_invidex():
+    f = open('./data/data_map.json')
+    data = json.load(f)
+    documentos = []
+    quatis = pick_quartis(get_prices_lists(data))
+
     for i in data:
-        doc = []
         titleList = [clean(i) for i in data[i]['title'].split() if i != 'None']
         genreList = [clean(i) for i in data[i]['genre'].split() if i != 'None']
         plataformaList = [clean(i) for i in data[i]
