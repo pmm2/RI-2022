@@ -1,7 +1,7 @@
 import json
 import numpy
 
-from .inverted_index import invertedIndex, clean
+from inverted_index import invertedIndex, clean
 
 def pick_quartis(price_list):
     q1 = numpy.quantile(price_list, q=0.25)

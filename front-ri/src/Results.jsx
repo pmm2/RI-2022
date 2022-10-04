@@ -1,13 +1,25 @@
 import React from "react";
 
 const Results = (props) => {
+  console.log(props.resultados);
+  console.log(typeof props.resultados);
+  const falsear = ()=>{
+    props.setmodoResultado(false)
+    props.setresultados('')
+  }
   return (
     <div>
-      <button onClick={()=>props.setmodoResultado(false)}>Realizar outra busca</button>
-      {/* //map do objeto recebido do back end com titulo sendo um hyperlink da url */}
-      <h1>
-        <a href="amazon.com">Amazon</a>
-      </h1>
+      <button onClick={falsear}>
+        Search something else
+      </button>
+      {props.resultados == '' && <h2>Loading....</h2>}
+      {props.resultados != '' && <h3>You would also like: Sonic , Zelda</h3>}
+      {props.resultados != '' &&
+        props.resultados.map((url) => (
+          <h2>
+            <a href={url}>{url}</a>
+          </h2>
+        ))}
     </div>
   );
 };
