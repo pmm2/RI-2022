@@ -2,6 +2,9 @@ from fastapi import FastAPI
 from pydantic import BaseModel,Field
 from typing import Optional
 from fastapi.middleware.cors import CORSMiddleware
+import json
+from search import get_docs_len,execute_query
+
 app = FastAPI()
 origins = ["*"]
 
@@ -22,6 +25,17 @@ class Consulta(BaseModel):
 
 @app.post('/')
 async def consulta(consulta:Consulta):
-    print(consulta)
+    data_map = {}
+    with open('../data/data_map.json') as infile:
+        text = infile.read()
+        data_map = json.loads(text)
+
+    qt_docs = len(data_map)
+    docs_len = get_docs_len(data_map)
+    idsConsulta = execute_query(consulta.simple,consulta.title,consulta.genre,consulta.dev,consulta.plataforma,consulta.price,qt_docs,docs_len)
+    retorno = []
+    for i in idsConsulta:
+       retorno.append(data_map[i]['url'])
+    json_string = json.dumps(retorno)
     #retornar json dos resultados
-    return {"status":200}
+    return json_string

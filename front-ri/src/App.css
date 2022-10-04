@@ -28,6 +28,11 @@ input{
 label{
   margin-top: 20px;
 }
+h2{
+  padding: 5px;
+  background-color: #bdae93;
+
+}
 button{
   font-family: 'Press Start 2P', cursive;
   background-color: #bdae93;
