@@ -30,10 +30,11 @@ label{
 }
 h2{
   padding: 5px;
-  background-color: #bdae93;
-
 }
-button{
+#button{
   font-family: 'Press Start 2P', cursive;
   background-color: #bdae93;
+  color: black;
+  border-color: #665c54;
+  margin-top: 8px;
 }

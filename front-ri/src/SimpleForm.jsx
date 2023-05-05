@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import axios from "axios";
+import { Button, Form } from "react-bootstrap";
 const SimpleForm = (props) => {
   const [simple, setSimple] = useState("");
   const submitHandler = (e) => {
@@ -16,16 +17,16 @@ const SimpleForm = (props) => {
     props.setmodoResultado(true);
   };
   return (
-    <form className="Forms" action="" onSubmit={submitHandler}>
+    <Form className="Forms" action="" onSubmit={submitHandler}>
       <h2>Gaming Google</h2>
-      <input
+      <Form.Control
         id="simple"
         type="text"
         value={simple}
         onChange={(e) => setSimple(e.target.value)}
       />
-      <button>Game Search</button>
-    </form>
+      <Button id="button">Game Search</Button>
+    </Form>
   );
 };
 
